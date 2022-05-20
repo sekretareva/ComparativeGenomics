@@ -1,0 +1,31 @@
+<div class="container">
+    {% if not countTable.empty: %}
+    <div class="d-flex justify-content-end">
+        <form class="py-2" action="/download/counted/counted" method="get" target="_blank">
+            <input class="btn btn-outline-secondary" type="submit" value="Download calculations" />
+        </form>
+    </div>
+    {% endif %}
+    <div class="scroll-table-h">
+        {% if not countTable.empty: %}
+        <table>
+            <thead>
+                <tr>
+                    {% for column in countTable.columns: %}
+                    <th>{{column}}</th>{% endfor %}
+                </tr>
+            </thead>
+
+            <tbody>
+                {% for rowIndex, row in countTable.iterrows(): %}
+                <tr>
+                    {%for columnIndex, value in row.items():%}
+                    <td>{% print(value) %}</td>
+                    {% endfor %}
+                </tr>{% endfor %}
+
+            </tbody>
+        </table>
+        {% endif %}
+    </div>
+</div>

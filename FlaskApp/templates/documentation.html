@@ -1,0 +1,205 @@
+{% extends 'base.html' %}
+{% block content %}
+<section class="mb-5">
+    <div class="container">
+        <div class="display-6 text-md-start mb-5">Документация</div>
+        <div class="row align-items-center">
+            <p class="lead fs-6 text-md-start">
+                Веб-интерфейс данного приложения позволит провести сравнительный
+                геномный анализа прокариот на основе данных аннотирования с помощью сервиса <a href="https://rast.nmpdr.org/">RAST</a>.
+                В приведенной документации собраны все рекомендации и пошаговые инструкции, которые помогут вам провести свое
+                исследование, используя данное приложение.
+            </p>
+        </div>
+        <div class="row mb-2">
+            <p class="lead fs-6 text-center text-md-start">
+                Весь процесс анализа осуществляется в разделе <b>АНАЛИЗ</b>.
+                И состоит из 3 этапов: классификации, расчетов и визуализации.
+            </p>
+        </div>
+
+        <div class="lead fs-3 text-md-start mb-4"><b>Классификация</b></div>
+
+        <div class="row align-items-center">
+            <div class="mb-2">
+                <div class="lead fs-6 text-center text-md-start">
+                    <p>
+                        В рамках данного приложения биологическая иерархия содержит 4 ранга: функция, подсистема, система и категория. Единицей классификации является функция.
+                    </p>
+                </div>
+            </div>
+        </div>
+
+        <div class="lead fs-4 text-md-start mb-4">Шаг 1</div>
+        <div class="row align-items-center">
+            <div class="mb-2">
+                <div class="lead fs-6 text-center text-md-start">
+                    <p>
+                        Загрузите выгрузки из сервиса RAST, содержащие список выявленных после аннотации функций.
+                        Рекомендация: называйте файлы по названию штамма или идентификационному номеру, чтобы было проще соотнести
+                        полученные в последствии результаты.
+                    </p>
+                    <p>Требования к загружаемым файлам:</p>
+                    <li>разрешимые форматы файлов - tsv и csv </li>
+                    <li>файл должен содержать колонки "Function" и "Subsystem"</li>
+
+                    <p>
+                        Вы также можете загрузить уже классифицированные файлы. Не забудьте запустить их загрузку. Для анализа переходите
+                        сразу к расчетам на следующем слайде, минуя шаг 2 с выбором параметров классификации.
+                    </p>
+                </div>
+            </div>
+        </div>
+        <div class="row align-items-center">
+            <div class="mb-2">
+                <img src="static/images/1.1.png" class="img-fluid mw-md-150 mw-lg-130 mb-6 mb-md-0 aos-init aos-animate">
+            </div>
+        </div>
+
+        <div class="lead fs-4 text-md-start mb-4">Шаг 2</div>
+        <div class="row mb-4 align-items-center">
+            <div class="col-lg-6 order-md-2 align-items-center">
+                <img src="static/images/1.2.png" class="img-fluid mw-md-150 mw-lg-130 mb-6 mb-md-0 aos-init aos-animate">
+            </div>
+
+            <div class="col-lg-6">
+                <div class="lead fs-6 text-center text-md-start">
+                    <p>
+                        Выберите параметры классификации. В зависимости от вашего выбора каждая функция из каждого загруженного файла
+                        обрабатывается в порядке приоритетности:
+                    </p>
+                    <li>с помощью существующей в системе RAST иерархии </li>
+                    <li>с помощью вами загруженного файла с иерархией</li>
+                    <li>с помощью классификации по ключевым словам</li>
+
+                    <p class="mt-2">Требования к загружаемому файлу с пользовательской иерархией:</p>
+                    <li>разрешимый формат файла - csv </li>
+                    <li>файл должен содержать колонки "Function", "Subsystem", "System" и "Category" </li>
+                </div>
+            </div>
+        </div>
+
+        <div class="lead fs-4 text-md-start mb-4">Шаг 3</div>
+        <div class="row align-items-center">
+            <div class="col-lg-8 align-items-center">
+                <img src="static/images/1.3.png" class="img-fluid mw-md-150 mw-lg-130 mb-6 mb-md-0 aos-init aos-animate">
+            </div>
+            <div class="col-lg-4">
+                <div class="lead fs-6 text-center text-md-start">
+                    <p>
+                        Процесс самой классификации может занять несколько минут в зависимости от общего объема загруженных файлов.
+                        В среднем на обработку 25МБ уходит 7 минут.
+                    </p>
+                    <p>
+                        Если вы продолжите загружать выгрузки RAST после классификации, то предыдущие полученные данные не пропадут. Новые
+                        результаты добавятся к старым.
+                    </p>
+                </div>
+            </div>
+        </div>
+        <div class="row align-items-center">
+            <div class="mb-2">
+                <div class="lead fs-6 text-center text-md-start">
+                    <p>
+                        В результате вашему вниманию будет представлена таблица с вертикальной прокруткой, соответствующая одному из анализируемых объектов.
+                        При необходимости вы можете открыть все классифицированные данные (Open full classified), скачать файл с получившейся
+                        классификацией по ключевым словам (Download keywords classification), сбросить все загруженные данные (Reset) и скачать таблицы
+                        с классифицированными функциями (Download).
+                    </p>
+                </div>
+            </div>
+        </div>
+
+        <div class="lead fs-3 text-md-start mb-4"><b>Расчеты</b></div>
+        <div class="lead fs-4 text-md-start mb-4">Шаг 4</div>
+        <div class="row mb-4 align-items-center">
+            <div class="col-lg-7 order-md-2 align-items-center">
+                <img src="static/images/2.1.png" class="img-fluid mw-md-150 mw-lg-130 mb-6 mb-md-0 aos-init aos-animate">
+            </div>
+
+            <div class="col-lg-5">
+                <div class="lead fs-6 text-center text-md-start">
+                    <p>
+                        Расчеты производятся на основании существующей в системе RAST иерархии. Для их произведения необходимо выбрать
+                        необходимые системы и категории. В блоке расчетов иерархия представлена в виде таблицы, в каждой строке которой
+                        имеется название категории, при нажатии на строку раскрывается список входящих в категорию систем.
+                        Вы можете выбрать категории и системы по отдельности или одним нажатием выбрать все категории, все системы в иерархии
+                        или все системы в пределах категории.
+                    </p>
+
+                </div>
+            </div>
+        </div>
+
+        <div class="lead fs-4 text-md-start mb-4">Шаг 5</div>
+        <div class="row align-items-center mb-4">
+            <div class="col-lg-8 align-items-center">
+                <img src="static/images/2.2.png" class="img-fluid mw-md-150 mw-lg-130 mb-6 mb-md-0 aos-init aos-animate">
+            </div>
+            <div class="col-lg-4">
+                <div class="lead fs-6 text-center text-md-start">
+                    <p>
+                        Запустите расчеты и в результирующей таблице появятся количественные данные, которые вы затем сможете скачать.
+                    </p>
+                </div>
+            </div>
+        </div>
+
+        <div class="lead fs-3 text-md-start mb-4"><b>Визуализация</b></div>
+        <div class="lead fs-4 text-md-start mb-4">Шаг 6</div>
+        <div class="row mb-4 align-items-center">
+            <div class="col-lg-5 order-md-2 align-items-center">
+                <img src="static/images/3.1.png" class="img-fluid mw-md-150 mw-lg-130 mb-6 mb-md-0 aos-init aos-animate">
+            </div>
+
+            <div class="col-lg-7">
+                <div class="lead fs-6 text-center text-md-start">
+                    <p>
+                        Последующая визуализация требует выбора методов, с помощью которых будет осуществлено снижение размерности
+                        для представления многомерных данных на плоскости. Поэкспериментируйте с ними и выберите оптимальный метод
+                        для ваших данных.
+                    </p>
+
+                </div>
+            </div>
+        </div>
+
+        <div class="lead fs-4 text-md-start mb-4">Шаг 7</div>
+        <div class="row align-items-center">
+            <div class="col-lg-5 align-items-center">
+                <img src="static/images/3.2.png" class="img-fluid mw-md-150 mw-lg-130 mb-6 mb-md-0 aos-init aos-animate">
+            </div>
+            <div class="col-lg-7">
+                <div class="lead fs-6 text-center text-md-start">
+                    <p>
+                        Если вы хотите разбить выборку на дополнительные группы, загрузить файл с соответствующими каждому образцу значениями
+                        в рамках нового признака. Рекомендация: убедитесь, что в загружаемом файле существует информация, соответствующая
+                        каждому из анализируемых образцов, иначе данные визуального разделения будут неполноценными.
+                    </p>
+                </div>
+            </div>
+        </div>
+        <div class="row align-items-center">
+            <div class="mb-2">
+                <div class="lead fs-6 text-center text-md-start">
+                    <p>Требования к загружаемому файл</p>
+                    <li>разрешимый формат файла - csv </li>
+                    <li>файл должен содержать колонки "Strain", "Breakdown Type" </li>
+                </div>
+            </div>
+        </div>
+        <div class="row align-items-center">
+            <div class="col-lg-7 align-items-center">
+                <img src="static/images/3.3.png" class="img-fluid mw-md-150 mw-lg-130 mb-6 mb-md-0 aos-init aos-animate">
+            </div>
+            <div class="col-lg-5">
+                <div class="lead fs-6 text-center text-md-start">
+                    <p>
+                        Нажмите на кнопку "Построить график" и в результатах визуализации появятся соответствующие вашему выбору 
+                        интерактивные графики. Ими можно манипулировать, а также их можно сохранить в формате png.
+                    </p>
+                </div>
+            </div>
+        </div>
+</section>
+{% endblock %}

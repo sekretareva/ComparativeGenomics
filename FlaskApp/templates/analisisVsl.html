@@ -1,0 +1,45 @@
+{% if plots %}
+{% if plots|length > 0 %}
+    {% if 'PCA' in plots: %}
+        <h3>PCA</h3><span id="PCA"></span>
+    {% endif %}
+
+    {% if 'MDS' in plots: %}
+        <h3>MDS</h3><span id="MDS"></span>
+    {% endif %}
+
+    {% if 't-SNE' in plots: %}
+        <h3>t-SNE</h3><span id="t-SNE"></span>
+    {% endif %}
+
+    {% if 'No method' in plots: %}
+        <h3>No method</h3><span id="No method"></span>
+    {% endif %}
+{% endif %}
+{% endif %}
+
+{% if plots %}
+{% if plots|length > 0 %}
+<script type='text/javascript'>
+    {% if 'PCA' in plots: %}
+        var graphPCA = {{plots['PCA']|safe}};
+        Plotly.plot('PCA', graphPCA, {});
+    {% endif %}
+
+    {% if 'MDS' in plots: %}
+        var graphMDS = {{ plots['MDS']|safe}};
+    Plotly.plot('MDS', graphMDS, {});
+    {% endif %}
+
+    {% if 't-SNE' in plots: %}
+        var graphTSNE = {{ plots['t-SNE']|safe}};
+        Plotly.plot('t-SNE', graphTSNE, {});
+    {% endif %}
+
+    {% if 'No method' in plots: %}
+    var graphTSNE = {{ plots['No method']| safe}};
+    Plotly.plot('No method', graphTSNE, {});
+    {% endif %}
+</script>
+{% endif %}
+{% endif %}

@@ -1,0 +1,78 @@
+.slider {
+    position: relative;
+    box-shadow: 0 9px 18px -4px rgba(0, 0, 0, 0.69);
+}
+
+.slider input[type=radio] {
+    display: none;
+}
+
+label {
+    display: inline-block;
+    cursor: pointer;
+    margin-top: 20px;
+    padding: 5px 15px;
+    line-height: 34px;
+    border-bottom: 3px solid #e9ecef;
+    border-radius: 1px;
+    user-select: none;
+    text-align: center;
+}
+.slideMenu {
+    width: 30%;
+}
+
+input[type=radio]:checked + label {
+    border-bottom: 3px solid #000;
+}
+
+label:hover {
+    color: #c4ccd5;
+}
+
+input[type=radio]:disabled + label {
+    border-bottom: 3px solid #e9ecef;
+}
+
+.slider-block {
+    overflow: hidden;
+}
+
+.slides {
+    display: flex;
+    width: 100%;
+    transition: all 0.6s;
+}
+
+.slides .slide {
+    width: 100%;
+    flex-shrink: 0;
+    padding: 50px;
+}
+
+#slide1:checked ~ slider-block slides {
+    transform: translate(0);
+}
+
+#slide2:checked ~ .slider-block .slides {
+    transform: translateX(-100%);
+}
+
+#slide3:checked ~ .slider-block .slides {
+    transform: translateX(-200%);
+}
+
+.hidden{
+    display:none;
+}
+
+.btn1 {
+    margin-top: 0px;
+    font-size: 12px;
+}
+
+.btn2{
+    margin-top:0px;
+    width: 60%;
+    font-size:12px;
+}

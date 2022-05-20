@@ -1,0 +1,1394 @@
+Category,System,Subsystem,Function
+RNA Metabolism,RNA processing and modification,RNA methylation,16S rRNA (cytidine(1402)-2&#39;-O)-methyltransferase (EC 2.1.1.198)
+RNA Metabolism,RNA processing and modification,RNA methylation,16S rRNA (cytosine(1402)-N(4))-methyltransferase (EC 2.1.1.199)
+RNA Metabolism,RNA processing and modification,RNA methylation,16S rRNA (guanine(527)-N(7))-methyltransferase (EC 2.1.1.170)
+RNA Metabolism,RNA processing and modification,RNA methylation,16S rRNA (uracil(1498)-N(3))-methyltransferase (EC 2.1.1.193)
+RNA Metabolism,RNA processing and modification,RNA methylation,23S rRNA (adenine(1618)-N(6))-methyltransferase (EC 2.1.1.181)
+RNA Metabolism,RNA processing and modification,RNA methylation,23S rRNA (adenine(2503)-C(2))-methyltransferase @ tRNA (adenine(37)-C(2))-methyltransferase (EC 2.1.1.192)
+RNA Metabolism,RNA processing and modification,RNA methylation,23S rRNA (cytosine(1962)-C(5))-methyltransferase (EC 2.1.1.191)
+RNA Metabolism,RNA processing and modification,RNA methylation,23S rRNA (guanine(2445)-N(2))-methyltransferase (EC 2.1.1.173)
+RNA Metabolism,RNA processing and modification,RNA methylation,23S rRNA (guanosine(2251)-2&#39;-O)-methyltransferase (EC 2.1.1.185)
+RNA Metabolism,RNA processing and modification,RNA methylation,23S rRNA (pseudouridine(1915)-N(3))-methyltransferase (EC 2.1.1.177)
+RNA Metabolism,RNA processing and modification,Pseudouridinylation,23S rRNA (pseudouridine(1915)-N(3))-methyltransferase (EC 2.1.1.177)
+RNA Metabolism,RNA processing and modification,Nuclease,"3&#39;-to-5&#39; oligoribonuclease A, Bacillus type"
+Membrane Transport,ABC-transporters,none,ABC transporter ATP-binding protein
+Membrane Transport,ABC-transporters,none,"ABC transporter, ATP-binding protein"
+Membrane Transport,ABC-transporters,none,"ABC transporter, RND-adapter-like protein"
+Membrane Transport,ABC-transporters,none,"ABC transporter, permease protein"
+Membrane Transport,ABC-transporters,none,"ABC transporter, substrate-binding protein (cluster 9, phospholipid)"
+Membrane Transport,ABC-transporters,none,"ABC-type Fe3+ transport system protein; Molybdenum transport protein, putative"
+Membrane Transport,ABC-transporters,none,"ABC-type Fe3+-hydroxamate transport system, periplasmic component"
+Membrane Transport,ABC-transporters,none,"ABC-type antimicrobial peptide transport system, ATPase component"
+Membrane Transport,ABC-transporters,none,"ABC-type antimicrobial peptide transport system, permease component"
+Membrane Transport,ABC-transporters,none,"ABC-type multidrug transport system, permease component"
+Protein Metabolism,Protein degradation,Protein degradation,ATP-dependent Clp protease proteolytic subunit ClpP (EC 3.4.21.92)
+DNA Metabolism,DNA Metabolism - no subcategory,DNA helicase,ATP-dependent DNA helicase RecG (EC 3.6.4.12)
+DNA Metabolism,DNA Metabolism - no subcategory,DNA helicase,ATP-dependent DNA helicase UvrD/PcrA (EC 3.6.4.12)
+RNA Metabolism,RNA Metabolism - no subcategory,RNA helicase,ATP-dependent RNA helicase RhlE (EC 3.6.4.13)
+RNA Metabolism,RNA Metabolism - no subcategory,RNA helicase,"ATP-dependent RNA helicase, DEAD box family"
+DNA Metabolism,DNA Metabolism - no subcategory,Nuclease,ATP-dependent exoDNAse (exonuclease V) alpha subunit - helicase superfamily I member
+DNA Metabolism,DNA Metabolism - no subcategory,DNA helicase,ATP-dependent exoDNAse (exonuclease V) alpha subunit - helicase superfamily I member
+Stress Response,Oxidative stress,Aerotolerance,Aerotolerance protein BatA
+Stress Response,Oxidative stress,Aerotolerance,Aerotolerance protein BatB
+Stress Response,Oxidative stress,Aerotolerance,Aerotolerance protein BatC
+Stress Response,Oxidative stress,Aerotolerance,Aerotolerance protein BatD
+Stress Response,Oxidative stress,Aerotolerance,Aerotolerance protein BatE
+DNA Metabolism,DNA repair,none,Alkylated DNA repair protein
+Respiration,Respiration - no subcategory,Cytochrome,Alternative cytochrome c oxidase polypeptide CoxM (EC 1.9.3.1)
+Respiration,Respiration - no subcategory,Cytochrome,Alternative cytochrome c oxidase polypeptide CoxN (EC 1.9.3.1)
+Respiration,Respiration - no subcategory,Cytochrome,Alternative cytochrome c oxidase polypeptide CoxO (EC 1.9.3.1)
+Respiration,Respiration - no subcategory,Cytochrome,Alternative cytochrome c oxidase polypeptide CoxP (EC 1.9.3.1)
+Protein Metabolism,Protein degradation,Aminopeptidases,Aminopeptidase
+Protein Metabolism,Protein degradation,Aminopeptidases,Aminopeptidase N
+"Virulence, Disease and Defense",Resistance to antibiotics and toxic compounds,none,Arsenical resistance operon repressor
+Membrane Transport,ABC-transporters,none,"Bacteriocin/lantibiotic efflux ABC transporter, permease/ATP-binding protein"
+RNA Metabolism,RNA processing and modification,"RNA processing and degradation, bacterial",CCA tRNA nucleotidyltransferase (EC 2.7.7.72)
+DNA Metabolism,CRISPs,CRISPRs,CRISPR region with repeat aagttgtagatacccttcaaaataagggctttcccaac
+DNA Metabolism,CRISPs,CRISPRs,CRISPR region with repeat gttgtggtttgattaaagattagaaaacacgatatt
+DNA Metabolism,CRISPs,CRISPRs,CRISPR repeat with sequence aacgctcgtccctccttcaaaataagggctttcccaac
+DNA Metabolism,CRISPs,CRISPRs,CRISPR repeat with sequence aagttgtagatacccttcaaaataagggctttcccaac
+DNA Metabolism,CRISPs,CRISPRs,CRISPR repeat with sequence acgttgtagatacccttcaaaataagggctttcccaac
+DNA Metabolism,CRISPs,CRISPRs,CRISPR repeat with sequence cagttgtagatacccttcaaaataagggctttcccaac
+DNA Metabolism,CRISPs,CRISPRs,CRISPR repeat with sequence gttgtggtttgattaaagattagaaaacacgatatt
+DNA Metabolism,CRISPs,CRISPRs,CRISPR repeat with sequence tggtcgatttgattaaagattagaaaacacgatatt
+DNA Metabolism,CRISPs,Spacers,CRISPR spacer
+DNA Metabolism,DNA Metabolism - no subcategory,Nuclease,CRISPR-associated endonuclease Cas9
+RNA Metabolism,RNA processing and modification,Nuclease,CRISPR-associated endonuclease Cas9
+DNA Metabolism,CRISPs,CRISPR-associated proteins,CRISPR-associated endonuclease Cas9
+Cell Wall and Capsule,Capsular and extracellular polysacchrides,Capsular Polysaccharides Biosynthesis and Assembly,Capsular polysaccharide biosynthesis protein
+Secondary Metabolism,"Bacterial cytostatics, differentiation factors and antibiotics",Antibiotics biosynthesis,Carbapenem antibiotics biosynthesis protein carD
+Protein Metabolism,Protein degradation,Protein degradation,Carboxy-terminal processing protease
+Protein Metabolism,Protein degradation,Protein degradation,Carboxyl-terminal protease
+Membrane Transport,Uni- Sym- and Antiporters,none,Cation/H+ antiporter
+Cell Division and Cell Cycle,Cell Division and Cell Cycle - no subcategory,Cell division protein,Cell division ZapA family protein
+Cell Division and Cell Cycle,Cell Division and Cell Cycle - no subcategory,Cell division protein,"Cell division protein DivIC (FtsB), stabilizes FtsL against RasP cleavage"
+Cell Division and Cell Cycle,Cell Division and Cell Cycle - no subcategory,Cell division protein,Cell division protein FtsA
+Cell Division and Cell Cycle,Cell Division and Cell Cycle - no subcategory,Cell division protein,Cell division protein FtsI [Peptidoglycan synthetase] (EC 2.4.1.129)
+Cell Division and Cell Cycle,Cell Division and Cell Cycle - no subcategory,Cell division protein,Cell division protein FtsL
+Cell Division and Cell Cycle,Cell Division and Cell Cycle - no subcategory,Cell division protein,Cell division protein FtsQ
+Cell Division and Cell Cycle,Cell Division and Cell Cycle - no subcategory,Cell division protein,Cell division protein FtsZ
+Cell Division and Cell Cycle,Cell Division and Cell Cycle - no subcategory,Cell division protein,Cell division trigger factor (EC 5.2.1.8)
+Protein Metabolism,Protein degradation,Protein degradation,"Cell division-associated, ATP-dependent zinc metalloprotease FtsH"
+Membrane Transport,ABC-transporters,none,"Cell-division-associated, ABC-transporter-like signaling protein FtsE"
+Membrane Transport,ABC-transporters,none,"Cell-division-associated, ABC-transporter-like signaling protein FtsX"
+DNA Metabolism,DNA replication,none,Chromosomal replication initiator protein DnaA
+"Virulence, Disease and Defense",Resistance to antibiotics and toxic compounds,none,Cobalt/zinc/cadmium resistance protein CzcD
+Stress Response,Cold shock,none,Cold shock protein of CSP family
+Stress Response,Stress Response - no subcategory,Phage shock,Cold shock protein of CSP family
+DNA Metabolism,DNA Metabolism - no subcategory,Nuclease,Crossover junction endodeoxyribonuclease RuvC (EC 3.1.22.4)
+Protein Metabolism,Protein degradation,Protein degradation,Cysteine protease
+Respiration,Respiration - no subcategory,Cytochrome,Cytochrome c oxidase (cbb3-type) subunit CcoN (EC 1.9.3.1) / Cytochrome c oxidase (cbb3-type) subunit CcoO (EC 1.9.3.1)
+Respiration,Respiration - no subcategory,Cytochrome,Cytochrome c oxidase (cbb3-type) subunit CcoP (EC 1.9.3.1)
+Respiration,Respiration - no subcategory,Cytochrome,Cytochrome c oxidase (cbb3-type) subunit CcoQ (EC 1.9.3.1)
+Respiration,Respiration - no subcategory,Cytochrome,"Cytochrome c, class I"
+Respiration,Respiration - no subcategory,Cytochrome,Cytochrome c551 peroxidase (EC 1.11.1.5)
+Respiration,Respiration - no subcategory,Cytochrome,"Cytochrome oxidase biogenesis protein Sco1/SenC/PrrC, thiol-disulfide reductase involved in Cu(I) insertion into CoxII Cu(A) center"
+Respiration,Respiration - no subcategory,Cytochrome,Cytochrome-c peroxidase( EC:1.11.1.5 )
+Protein Metabolism,Protein degradation,Dipeptidases,Cytosol nonspecific dipeptidase (EC 3.4.13.18)
+Membrane Transport,ABC-transporters,none,"CzcABC family efflux RND transporter, membrane fusion protein"
+Membrane Transport,ABC-transporters,none,"CzcABC family efflux RND transporter, transmembrane protein"
+Protein Metabolism,Protein degradation,Dipeptidases,D-alanyl-D-alanine dipeptidase (EC 3.4.13.22)
+RNA Metabolism,RNA Metabolism - no subcategory,RNA helicase,DEAD-box ATP-dependent RNA helicase DeaD (= CshA) (EC 3.6.4.13)
+DNA Metabolism,DNA replication,DNA polymerase,DEDDh 3&#39;-5&#39; exonuclease domain / DNA polymerase III alpha subunit (EC 2.7.7.7)
+DNA Metabolism,DNA Metabolism - no subcategory,Nuclease,DEDDh 3&#39;-5&#39; exonuclease domain / DNA polymerase III alpha subunit (EC 2.7.7.7)
+DNA Metabolism,DNA replication,DNA polymerase,DNA polymerase I (EC 2.7.7.7)
+DNA Metabolism,DNA replication,DNA polymerase,DNA polymerase III beta subunit (EC 2.7.7.7)
+DNA Metabolism,DNA replication,DNA polymerase,DNA polymerase III delta prime subunit (EC 2.7.7.7)
+DNA Metabolism,DNA replication,DNA polymerase,DNA polymerase III delta subunit (EC 2.7.7.7)
+DNA Metabolism,DNA replication,DNA polymerase,DNA polymerase III epsilon subunit (EC 2.7.7.7)
+DNA Metabolism,DNA Metabolism - no subcategory,DNA helicase,"DNA repair and recombination protein, putative helicase"
+DNA Metabolism,DNA repair,none,"DNA repair and recombination protein, putative helicase"
+DNA Metabolism,DNA replication,DNA topoisomerases,DNA topoisomerase IV subunit A (EC 5.99.1.3)
+DNA Metabolism,DNA replication,DNA topoisomerases,DNA topoisomerase IV subunit B (EC 5.99.1.3)
+DNA Metabolism,DNA Metabolism - no subcategory,Nuclease,DNA/RNA non-specific endonuclease
+RNA Metabolism,RNA processing and modification,Nuclease,DNA/RNA non-specific endonuclease
+DNA Metabolism,DNA Metabolism - no subcategory,Nuclease,Deoxyinosine 3&#39;endonuclease (endonuclease V)-like protein
+RNA Metabolism,RNA processing and modification,Nuclease,Deoxyinosine 3&#39;endonuclease (endonuclease V)-like protein
+Membrane Transport,Uni- Sym- and Antiporters,none,Di-tripeptide/cation symporter
+Protein Metabolism,Protein degradation,Protein degradation,Dipeptidyl peptidase IV
+Protein Metabolism,Protein degradation,Protein degradation,Dipeptidyl peptidase VI
+Membrane Transport,ABC-transporters,none,"Domain of unknown function / Efflux ABC transporter, permease protein"
+Membrane Transport,ABC-transporters,none,"Efflux ABC transporter, ATP-binding protein"
+Membrane Transport,ABC-transporters,none,"Efflux ABC transporter, permease/ATP-binding protein"
+Membrane Transport,ABC-transporters,none,"Efflux ABC transporter, permease/ATP-binding protein CHU_2049"
+Membrane Transport,Membrane Transport - no subcategory,none,"Efflux system associated with Geranylgeranyl-PP synthase, inner membrane transporter (RND type)"
+DNA Metabolism,DNA Metabolism - no subcategory,Nuclease,Endonuclease I
+RNA Metabolism,RNA processing and modification,Nuclease,Endonuclease I
+DNA Metabolism,DNA Metabolism - no subcategory,Nuclease,Endonuclease III (EC 4.2.99.18)
+RNA Metabolism,RNA processing and modification,Nuclease,Endonuclease III (EC 4.2.99.18)
+DNA Metabolism,DNA Metabolism - no subcategory,Nuclease,Endonuclease/exonuclease/phosphatase
+RNA Metabolism,RNA processing and modification,Nuclease,Endonuclease/exonuclease/phosphatase
+DNA Metabolism,DNA replication,DNA polymerase,"Exonuclease, RNase T and DNA polymerase III"
+DNA Metabolism,DNA Metabolism - no subcategory,Nuclease,"Exonuclease, RNase T and DNA polymerase III"
+RNA Metabolism,RNA processing and modification,Nuclease,"Exonuclease, RNase T and DNA polymerase III"
+Membrane Transport,Membrane Transport - no subcategory,none,FIG000605: protein co-occurring with transport systems (COG1739)
+Protein Metabolism,Protein biosynthesis,Ribosome LSU/SSU bacterial,"FIG01269488: protein, clustered with ribosomal protein L32p"
+Protein Metabolism,Protein degradation,Protein degradation,FIG015287: Zinc protease
+Protein Metabolism,Protein degradation,Protein degradation,"FIG015547: peptidase, M16 family"
+Membrane Transport,Membrane Transport - no subcategory,none,Ferrous iron transporter FeoB
+Membrane Transport,Membrane Transport - no subcategory,none,Ferrous iron transporter-associated protein FeoA
+Membrane Transport,Membrane Transport - no subcategory,none,Fluoride ion transporter CrcB
+Protein Metabolism,Protein degradation,Protein degradation,Gamma-glutamyltranspeptidase (EC 2.3.2.2) @ Glutathione hydrolase (EC 3.4.19.13)
+Membrane Transport,ABC-transporters,none,Gliding motility-associated ABC transporter ATP-binding protein GldA
+Membrane Transport,ABC-transporters,none,Gliding motility-associated ABC transporter permease protein GldF
+Membrane Transport,ABC-transporters,none,Gliding motility-associated ABC transporter substrate-binding protein GldG
+Membrane Transport,Membrane Transport - no subcategory,none,Glucose/galactose transporter
+Stress Response,Heat shock,none,Heat shock protein 10 kDa family chaperone GroES
+Stress Response,Heat shock,none,Heat shock protein 60 kDa family chaperone GroEL
+Respiration,Respiration - no subcategory,Cytochrome,"Heavy-metal-associated domain (N-terminus) and membrane-bounded cytochrome biogenesis cycZ-like domain, possible membrane copper tolerance protein"
+DNA Metabolism,DNA Metabolism - no subcategory,DNA helicase,Helicase PriA essential for oriC/DnaA-independent DNA replication
+DNA Metabolism,DNA replication,none,Helicase PriA essential for oriC/DnaA-independent DNA replication
+Regulation and Cell signaling,Regulation and Cell signaling - no subcategory,Two-component regulatory system,Histidine kinase
+Membrane Transport,ABC-transporters,none,HlyB/MsbA family ABC transporter
+DNA Metabolism,DNA Metabolism - no subcategory,DNA helicase,Holliday junction ATP-dependent DNA helicase RuvA (EC 3.6.4.12)
+DNA Metabolism,DNA Metabolism - no subcategory,DNA helicase,Holliday junction ATP-dependent DNA helicase RuvB (EC 3.6.4.12)
+"Phages, Prophages, Transposable elements, Plasmids",Transposable elements,Transposase,ISNCY family transposase
+"Phages, Prophages, Transposable elements, Plasmids",Transposable elements,Transposase,"ISSod13, transposase"
+Membrane Transport,Protein transport,Protein transport,"Inner membrane protein translocase and chaperone YidC, long form"
+Membrane Transport,Uni- Sym- and Antiporters,none,Inner-membrane proton/drug antiporter (MSF type) of tripartite multidrug efflux system
+"Phages, Prophages, Transposable elements, Plasmids",Transposable elements,Integrase,Integrase
+Protein Metabolism,Protein degradation,Protein degradation,Intracellular protease
+Membrane Transport,ABC-transporters,none,"Iron(III) ABC transporter, ATP-binding protein"
+Membrane Transport,Membrane Transport - no subcategory,none,Iron(III) dicitrate transport protein FecA
+Membrane Transport,Membrane Transport - no subcategory,none,"Kef-type K+ transport systems, predicted NAD-binding component"
+Cell Wall and Capsule,Gram-Negative cell wall components,Lipoprotein sorting system,LPS-assembly protein LptD @ Organic solvent tolerance protein precursor
+RNA Metabolism,RNA processing and modification,Pseudouridinylation,LSU rRNA pseudouridine(1911/1915/1917) synthase (EC 5.4.99.23)
+RNA Metabolism,RNA processing and modification,Pseudouridinylation,LSU rRNA pseudouridine(2457) synthase (EC 5.4.99.20)
+RNA Metabolism,RNA processing and modification,Pseudouridinylation,LSU rRNA pseudouridine(2604) synthase (EC 5.4.99.21)
+RNA Metabolism,RNA processing and modification,Pseudouridinylation,LSU rRNA pseudouridine(2605) synthase (EC 5.4.99.22)
+Protein Metabolism,Protein biosynthesis,Ribosome LSU/SSU bacterial,LSU ribosomal protein L10p (P0)
+Protein Metabolism,Protein biosynthesis,Ribosome LSU/SSU bacterial,LSU ribosomal protein L11p (L12e)
+Protein Metabolism,Protein biosynthesis,Ribosome LSU/SSU bacterial,LSU ribosomal protein L13p (L13Ae)
+Protein Metabolism,Protein biosynthesis,Ribosome LSU/SSU bacterial,LSU ribosomal protein L14p (L23e)
+Protein Metabolism,Protein biosynthesis,Ribosome LSU/SSU bacterial,LSU ribosomal protein L15p (L27Ae)
+Protein Metabolism,Protein biosynthesis,Ribosome LSU/SSU bacterial,LSU ribosomal protein L16p (L10e)
+Protein Metabolism,Protein biosynthesis,Ribosome LSU/SSU bacterial,LSU ribosomal protein L17p
+Protein Metabolism,Protein biosynthesis,Ribosome LSU/SSU bacterial,LSU ribosomal protein L18p (L5e)
+Protein Metabolism,Protein biosynthesis,Ribosome LSU/SSU bacterial,LSU ribosomal protein L19p
+Protein Metabolism,Protein biosynthesis,Ribosome LSU/SSU bacterial,LSU ribosomal protein L1p (L10Ae)
+Protein Metabolism,Protein biosynthesis,Ribosome LSU/SSU bacterial,LSU ribosomal protein L21p
+Protein Metabolism,Protein biosynthesis,Ribosome LSU/SSU bacterial,LSU ribosomal protein L22p (L17e)
+Protein Metabolism,Protein biosynthesis,Ribosome LSU/SSU bacterial,LSU ribosomal protein L23p (L23Ae)
+Protein Metabolism,Protein biosynthesis,Ribosome LSU/SSU bacterial,LSU ribosomal protein L24p (L26e)
+Protein Metabolism,Protein biosynthesis,Ribosome LSU/SSU bacterial,LSU ribosomal protein L25p
+Protein Metabolism,Protein biosynthesis,Ribosome LSU/SSU bacterial,LSU ribosomal protein L27p
+Protein Metabolism,Protein biosynthesis,Ribosome LSU/SSU bacterial,"LSU ribosomal protein L28p @ LSU ribosomal protein L28p, zinc-independent"
+Protein Metabolism,Protein biosynthesis,Ribosome LSU/SSU bacterial,LSU ribosomal protein L29p (L35e)
+Protein Metabolism,Protein biosynthesis,Ribosome LSU/SSU bacterial,LSU ribosomal protein L2p (L8e)
+Protein Metabolism,Protein biosynthesis,Ribosome LSU/SSU bacterial,LSU ribosomal protein L30p (L7e)
+Protein Metabolism,Protein biosynthesis,Ribosome LSU/SSU bacterial,"LSU ribosomal protein L31p @ LSU ribosomal protein L31p, zinc-independent"
+Protein Metabolism,Protein biosynthesis,Ribosome LSU/SSU bacterial,"LSU ribosomal protein L32p @ LSU ribosomal protein L32p, zinc-independent"
+Protein Metabolism,Protein biosynthesis,Ribosome LSU/SSU bacterial,"LSU ribosomal protein L33p @ LSU ribosomal protein L33p, zinc-independent"
+Protein Metabolism,Protein biosynthesis,Ribosome LSU/SSU bacterial,LSU ribosomal protein L34p
+Protein Metabolism,Protein biosynthesis,Ribosome LSU/SSU bacterial,LSU ribosomal protein L3p (L3e)
+Protein Metabolism,Protein biosynthesis,Ribosome LSU/SSU bacterial,LSU ribosomal protein L4p (L1e)
+Protein Metabolism,Protein biosynthesis,Ribosome LSU/SSU bacterial,LSU ribosomal protein L5p (L11e)
+Protein Metabolism,Protein biosynthesis,Ribosome LSU/SSU bacterial,LSU ribosomal protein L6p (L9e)
+Protein Metabolism,Protein biosynthesis,Ribosome LSU/SSU bacterial,LSU ribosomal protein L7p/L12p (P1/P2)
+Protein Metabolism,Protein biosynthesis,Ribosome LSU/SSU bacterial,LSU ribosomal protein L9p
+Cell Wall and Capsule,Gram-Negative cell wall components,Lipoprotein sorting system,"Lipopolysaccharide ABC transporter, ATP-binding protein LptB"
+Membrane Transport,ABC-transporters,none,"Lipopolysaccharide ABC transporter, ATP-binding protein LptB"
+Cell Wall and Capsule,Gram-Negative cell wall components,Lipopolysaccharides,Lipopolysaccharide core biosynthesis protein LpsA
+Carbohydrates,Polysaccharides,Polysaccharide biosynthesis,Lipopolysaccharide core biosynthesis protein LpsA
+Cell Wall and Capsule,Gram-Negative cell wall components,Lipopolysaccharides,Lipopolysaccharide core biosynthesis protein RfaS
+Carbohydrates,Polysaccharides,Polysaccharide biosynthesis,Lipopolysaccharide core biosynthesis protein RfaS
+Cell Wall and Capsule,Gram-Negative cell wall components,Lipoprotein sorting system,Lipopolysaccharide export system permease protein LptF
+Cell Wall and Capsule,Gram-Negative cell wall components,Lipoprotein sorting system,Lipopolysaccharide export system permease protein LptG
+Cell Wall and Capsule,Gram-Negative cell wall components,Lipoprotein sorting system,Lipopolysaccharide export system protein LptA
+Cell Wall and Capsule,Gram-Negative cell wall components,Lipoprotein sorting system,Lipopolysaccharide export system protein LptC
+Membrane Transport,ABC transporters,Lipoprotein-releasing system,Lipoprotein releasing system transmembrane protein LolC/LolE
+Membrane Transport,ABC transporters,Lipoprotein-releasing system,Lipoprotein-releasing system ATP-binding protein LolD
+Membrane Transport,Membrane Transport - no subcategory,none,Manganese transport protein MntH
+Regulation and Cell signaling,Regulation and Cell signaling - no subcategory,Two-component regulatory system,Membrane anchored sensor signal transduction histidine kinase Fjoh_0543
+Protein Metabolism,Protein degradation,Protein degradation,Metalloprotease MEP2
+Membrane Transport,Membrane Transport - no subcategory,none,"Mg/Co/Ni transporter MgtE, CBS domain-containing"
+RNA Metabolism,RNA processing and modification,none,Mn-dependent transcriptional regulator MntR
+Stress Response,Oxidative stress,Aerotolerance,MoxR-like ATPase in aerotolerance operon
+Protein Metabolism,Protein degradation,Protein degradation,Multimodular transpeptidase-transglycosylase (EC 2.4.1.129) (EC 3.4.-.-)
+DNA Metabolism,DNA Metabolism - no subcategory,DNA methylation,N-6 DNA methylase
+Membrane Transport,Uni- Sym- and Antiporters,none,"NADH:ubiquinone oxidoreductase subunit 5 (chain L)/Multisubunit Na+/H+ antiporter, MnhA subunit"
+Membrane Transport,Membrane Transport - no subcategory,none,Na(+)-dependent bicarbonate transporter BicA
+Membrane Transport,Membrane Transport - no subcategory,none,Nitrate/nitrite transporter NarK/U
+Membrane Transport,Membrane Transport - no subcategory,none,Nitrate/nitrite transporter NarK/U 1
+Membrane Transport,Membrane Transport - no subcategory,none,Optional hypothetical component of the B12 transporter BtuN
+Membrane Transport,Membrane Transport - no subcategory,none,"Outer membrane TonB-dependent transporter, utilization system for glycans and polysaccharides (PUL), SusC family"
+Membrane Transport,Membrane Transport - no subcategory,Ton and Tol transopt system,"Outer membrane TonB-dependent transporter, utilization system for glycans and polysaccharides (PUL), SusC family"
+"Virulence, Disease and Defense",Resistance to antibiotics and toxic compounds,none,Outer membrane component of tripartite multidrug resistance system
+Membrane Transport,Membrane Transport - no subcategory,none,"Outer membrane receptor proteins, mostly Fe transport"
+"Phages, Prophages, Transposable elements, Plasmids",Transposable elements,Transposase,PROBABLE REMNANT OF A TRANSPOSASE GENE PROTEIN
+Protein Metabolism,Protein degradation,Protein degradation,Peptidase M1 family protein
+Protein Metabolism,Protein degradation,Protein degradation,"Peptidase, M13 family"
+Protein Metabolism,Protein degradation,Protein degradation,"Peptidase, family M23 (EC 3.4.24.-)"
+Protein Metabolism,Protein degradation,Protein degradation,"Peptidoglycan D,D-transpeptidase MrdA (EC 3.4.16.4)"
+Membrane Transport,Membrane Transport - no subcategory,none,Permease of the drug/metabolite transporter (DMT) superfamily
+Membrane Transport,ABC-transporters,none,Phospholipid ABC transporter ATP-binding protein MlaF
+Membrane Transport,ABC-transporters,none,Phospholipid ABC transporter permease protein MlaE
+RNA Metabolism,RNA processing and modification,"RNA processing and degradation, bacterial",Polyribonucleotide nucleotidyltransferase (EC 2.7.7.8)
+Membrane Transport,ABC-transporters,none,"Polysaccharide ABC transporter, ATP-binding protein"
+Carbohydrates,Polysaccharides,Polysaccharide biosynthesis,Polysaccharide biosynthesis protein
+DNA Metabolism,DNA Metabolism - no subcategory,Nuclease,Predicted endonuclease containing a URI domain
+RNA Metabolism,RNA processing and modification,Nuclease,Predicted endonuclease containing a URI domain
+RNA Metabolism,RNA processing and modification,none,Probable transcriptional regulatory protein YebC
+Protein Metabolism,Protein degradation,Protein degradation,Prolyl oligopeptidase family protein
+Protein Metabolism,Protein degradation,Protein degradation,Prophage Clp protease-like protein
+Protein Metabolism,Protein degradation,Protein degradation,Protease II (EC 3.4.21.83)
+Protein Metabolism,Protein degradation,Protein degradation,Protease precursor
+Membrane Transport,Protein transport,Protein transport,Protein translocase membrane subunit SecG
+Membrane Transport,Protein transport,Protein transport,Protein translocase subunit SecA
+Membrane Transport,Protein transport,Protein transport,Protein translocase subunit SecD / Protein translocase subunit SecF
+Membrane Transport,Protein transport,Protein transport,Protein translocase subunit SecE
+Membrane Transport,Protein transport,Protein transport,Protein translocase subunit SecY
+Membrane Transport,Protein transport,Protein transport,Protein translocase subunit YajC
+Membrane Transport,Membrane Transport - no subcategory,Ton and Tol transopt system,Putative TonB-dependent receptor
+Protein Metabolism,Protein degradation,Protein degradation,Putative membrane protease YugP
+Membrane Transport,Membrane Transport - no subcategory,none,Putative membrane transport protein
+Membrane Transport,ABC-transporters,none,"Putative phosphate ABC transporter, phosphate-binding component"
+RNA Metabolism,RNA processing and modification,Nuclease,Putative pre-16S rRNA nuclease YqgF
+Membrane Transport,Membrane Transport - no subcategory,none,Putative preQ0 transporter YhhQ
+Respiration,Respiration - no subcategory,Cytochrome,Putative subunit of Alternative cytochrome c oxidase
+RNA Metabolism,RNA processing and modification,RNA methylation,RNA methyltransferase DR1017
+RNA Metabolism,RNA processing and modification,RNA methylation,"RNA methyltransferase, TrmA family"
+RNA Metabolism,RNA processing and modification,RNA methylation,"RNA methyltransferase, TrmH family"
+RNA Metabolism,Transcription,"Transcription initiation, bacterial sigma factors",RNA polymerase ECF-type sigma factor
+DNA Metabolism,DNA Metabolism - no subcategory,DNA helicase,RecD-like DNA helicase Atu2026
+DNA Metabolism,DNA replication,none,Replication-associated recombination protein RarA
+DNA Metabolism,DNA Metabolism - no subcategory,DNA helicase,Replicative DNA helicase (DnaB) (EC 3.6.4.12)
+Regulation and Cell signaling,Regulation and Cell signaling - no subcategory,Two-component regulatory system,Response regulator
+RNA Metabolism,RNA processing and modification,Nuclease,Ribonuclease G
+RNA Metabolism,RNA processing and modification,Nuclease,Ribonuclease Y
+Protein Metabolism,Protein biosynthesis,Ribosome LSU/SSU bacterial,Ribosomal protein L11 methyltransferase
+Protein Metabolism,Protein biosynthesis,Ribosome LSU/SSU bacterial,Ribosomal protein S12p Asp88 (E. coli) methylthiotransferase (EC 2.8.4.4)
+Stress Response,Heat shock,none,Ribosome-associated heat shock protein implicated in the recycling of the 50S subunit (S4 paralog)
+Cell Wall and Capsule,Cell Wall and Capsule - no subcategory,Cell shape,Rod shape-determining protein MreB
+Cell Wall and Capsule,Cell Wall and Capsule - no subcategory,Cell shape,Rod shape-determining protein MreC
+Cell Wall and Capsule,Cell Wall and Capsule - no subcategory,Cell shape,Rod shape-determining protein MreD
+Cell Wall and Capsule,Cell Wall and Capsule - no subcategory,Cell shape,Rod shape-determining protein RodA
+Membrane Transport,Protein transport,Protein transport,SEC-independent protein translocase protein TATC
+Protein Metabolism,Protein degradation,Protein degradation,Serine protease
+Membrane Transport,Membrane Transport - no subcategory,Siderophore,Siderophore
+Membrane Transport,Membrane Transport - no subcategory,Siderophore,Siderophore (Surfactin) biosynthesis regulatory protein
+Protein Metabolism,Protein degradation,Protein degradation,Signal peptide peptidase SppA (protease 4)
+DNA Metabolism,DNA Metabolism - no subcategory,Nuclease,Single-stranded-DNA-specific exonuclease RecJ
+Membrane Transport,Membrane Transport - no subcategory,none,Sodium/iodide co-transporter
+Membrane Transport,Uni- Sym- and Antiporters,none,Sodium:dicarboxylate symporter precursor
+Protein Metabolism,Protein degradation,Protein degradation,Subtilisin-like serine proteases
+Respiration,Respiration - no subcategory,Cytochrome,Succinate dehydrogenase cytochrome b subunit
+Miscellaneous,Plant-Prokaryote DOE project,Iron-sulfur cluster assembly,Sulfur acceptor protein => iron-sulfur cluster assembly SufE
+Membrane Transport,"Protein secretion system, Type I",T1 SS component,T1SS secreted agglutinin RTX
+Membrane Transport,"Protein secretion system, Type VI",T6 SS component,T6SS AAA+ chaperone ClpV (TssH)
+Membrane Transport,"Protein secretion system, Type VI",T6 SS component,T6SS PAAR-repeat protein / RhaS protein
+RNA Metabolism,RNA processing and modification,RNA methylation,TRNA and rRNA cytosine-C5-methylase
+RNA Metabolism,RNA processing and modification,RNA methylation,TRNA/rRNA methyltransferase
+Protein Metabolism,Protein degradation,Protein degradation,Tail-specific protease precursor (EC 3.4.21.102)
+Membrane Transport,Membrane Transport - no subcategory,Ton and Tol transopt system,TonB family protein
+Membrane Transport,Membrane Transport - no subcategory,Ton and Tol transopt system,TonB-dependent outer membrane receptor
+RNA Metabolism,RNA processing and modification,none,Transcriptional regulator
+RNA Metabolism,RNA processing and modification,none,Transcriptional regulator MarR
+RNA Metabolism,RNA processing and modification,none,Transcriptional regulator MraZ
+RNA Metabolism,RNA processing and modification,none,"Transcriptional regulator, AcrR family"
+RNA Metabolism,RNA processing and modification,none,"Transcriptional regulator, AraC family"
+RNA Metabolism,RNA processing and modification,none,"Transcriptional regulator, ArsR family"
+RNA Metabolism,RNA processing and modification,none,"Transcriptional regulator, AsnC family"
+RNA Metabolism,RNA processing and modification,none,"Transcriptional regulator, HxlR family"
+RNA Metabolism,RNA processing and modification,none,"Transcriptional regulator, LysR family"
+RNA Metabolism,RNA processing and modification,none,"Transcriptional regulator, MarR family"
+RNA Metabolism,RNA processing and modification,none,"Transcriptional regulator, MecI family"
+RNA Metabolism,RNA processing and modification,none,"Transcriptional regulator, PadR family"
+RNA Metabolism,RNA processing and modification,none,"Transcriptional regulator, YafY family"
+"Phages, Prophages, Transposable elements, Plasmids",Transposable elements,Transposase,Transposase
+"Phages, Prophages, Transposable elements, Plasmids",Transposable elements,Transposase,Transposase and inactivated derivatives
+"Phages, Prophages, Transposable elements, Plasmids",Transposable elements,Transposase,"Transposase, IS4"
+"Phages, Prophages, Transposable elements, Plasmids",Transposable elements,Transposase,"Transposase, IS4 family"
+Protein Metabolism,Protein degradation,Aminopeptidases,Tripeptide aminopeptidase (EC 3.4.11.4)
+Regulation and Cell signaling,Regulation and Cell signaling - no subcategory,Two-component regulatory system,Two-component system response regulator protein
+Regulation and Cell signaling,Regulation and Cell signaling - no subcategory,Two-component regulatory system,Two-component system sensor histidine kinase
+Regulation and Cell signaling,Regulation and Cell signaling - no subcategory,Two-component regulatory system,"Two-component transcriptional response regulator Fjoh_0544, OmpR family"
+RNA Metabolism,RNA processing and modification,none,"Two-component transcriptional response regulator Fjoh_0544, OmpR family"
+Regulation and Cell signaling,Regulation and Cell signaling - no subcategory,Two-component regulatory system,"Two-component transcriptional response regulator, AtoC family"
+RNA Metabolism,RNA processing and modification,none,"Two-component transcriptional response regulator, AtoC family"
+Regulation and Cell signaling,Regulation and Cell signaling - no subcategory,Two-component regulatory system,"Two-component transcriptional response regulator, LuxR family"
+RNA Metabolism,RNA processing and modification,none,"Two-component transcriptional response regulator, LuxR family"
+Regulation and Cell signaling,Regulation and Cell signaling - no subcategory,Two-component regulatory system,"Two-component transcriptional response regulator, OmpR family"
+RNA Metabolism,RNA processing and modification,none,"Two-component transcriptional response regulator, OmpR family"
+DNA Metabolism,DNA Metabolism - no subcategory,Type I Restriction-Modification,"Type I restriction-modification system, specificity subunit S"
+DNA Metabolism,DNA Metabolism - no subcategory,Type II Restriction-Modification,Type II restriction adenine-specific methylase (EC 2.1.1.72)
+DNA Metabolism,DNA Metabolism - no subcategory,Nuclease,Type II site-specific deoxyribonuclease
+Protein Metabolism,Protein degradation,Protein degradation,"U32 family peptidase BT3072, annotated as collagenase"
+Membrane Transport,Membrane Transport - no subcategory,none,Uncharacterized MFS-type transporter
+Protein Metabolism,Protein degradation,Protein degradation,Uncharacterized protease YdcP
+Membrane Transport,"Protein secretion system, Type VI",Actin cross-linking toxin,VgrG protein
+Membrane Transport,ABC-transporters,none,"Vitamin B12 ABC transporter, ATP-binding protein BtuD"
+Membrane Transport,ABC-transporters,none,"Vitamin B12 ABC transporter, permease protein BtuC"
+Membrane Transport,ABC-transporters,none,"Vitamin B12 ABC transporter, substrate-binding protein BtuF"
+Protein Metabolism,Protein degradation,Protein degradation,"Zinc protease CHU_1230, M16 family"
+Membrane Transport,Membrane Transport - no subcategory,none,"Zinc transporter, ZIP family"
+Protein Metabolism,Protein degradation,Aminopeptidases,Zn-dependent aminopeptidase
+Protein Metabolism,Protein degradation,Protein degradation,Zn-dependent protease with chaperone function PA4632
+Respiration,Respiration - no subcategory,Cytochrome,cytochrome c peroxidase
+Stress Response,Cold shock,none,hypothetical domain / Cold shock protein of CSP family
+Stress Response,Stress Response - no subcategory,Phage shock,hypothetical domain / Cold shock protein of CSP family
+Protein Metabolism,Protein biosynthesis,Ribosome LSU/SSU bacterial,hypothetical protein sometimes fused to ribosomal protein S6 glutaminyl transferase / Ribosomal protein S6--L-glutamate ligase
+Cell Wall and Capsule,Gram-Negative cell wall components,Lipopolysaccharides,lipopolysaccharide core biosynthesis protein LpsA
+Carbohydrates,Polysaccharides,Polysaccharide biosynthesis,lipopolysaccharide core biosynthesis protein LpsA
+"Phages, Prophages, Transposable elements, Plasmids",Transposable elements,Integrase,phage integrase family protein
+DNA Metabolism,DNA repair,none,putative DNA mismatch repair protein
+Membrane Transport,Membrane Transport - no subcategory,Ton and Tol transopt system,putative TonB-dependent receptor
+Protein Metabolism,Protein degradation,Protein degradation,putative metallopeptidase
+Protein Metabolism,Protein degradation,Aminopeptidases,putative secreted tripeptidyl aminopeptidase
+RNA Metabolism,RNA processing and modification,none,"putative transcriptional regulator, AsnC family"
+"Phages, Prophages, Transposable elements, Plasmids",Transposable elements,Transposase,"putative transposase, orfB"
+Regulation and Cell signaling,Regulation and Cell signaling - no subcategory,Two-component regulatory system,response regulator receiver protein
+RNA Metabolism,RNA processing and modification,RNA methylation,tRNA (guanine(37)-N(1))-methyltransferase (EC 2.1.1.228)
+RNA Metabolism,RNA processing and modification,RNA methylation,tRNA (guanine(46)-N(7))-methyltransferase (EC 2.1.1.33)
+RNA Metabolism,RNA processing and modification,Pseudouridinylation,tRNA pseudouridine(38-40) synthase (EC 5.4.99.12)
+RNA Metabolism,RNA processing and modification,Pseudouridinylation,tRNA pseudouridine(55) synthase (EC 5.4.99.25)
+RNA Metabolism,RNA processing and modification,tRNA methylthiolation,tRNA t(6)A37-methylthiotransferase (EC 2.8.4.5)
+RNA Metabolism,RNA processing and modification,RNA methylation,tRNA(1)(Val) (adenine(37)-N(6))-methyltransferase (EC 2.1.1.223)
+RNA Metabolism,RNA processing and modification,RNA methylation,tRNA-5-carboxymethylaminomethyl-2-thiouridine(34) synthesis protein MnmE
+RNA Metabolism,RNA processing and modification,RNA methylation,tRNA-5-carboxymethylaminomethyl-2-thiouridine(34) synthesis protein MnmG
+RNA Metabolism,RNA processing and modification,none,tRNA-Ala-TGC
+RNA Metabolism,RNA processing and modification,none,tRNA-Arg-TCT
+RNA Metabolism,RNA processing and modification,none,tRNA-Asn-GTT
+RNA Metabolism,RNA processing and modification,none,tRNA-Asp-GTC
+RNA Metabolism,RNA processing and modification,none,tRNA-Gln-TTG
+RNA Metabolism,RNA processing and modification,none,tRNA-Glu-TTC
+RNA Metabolism,RNA processing and modification,none,tRNA-Gly-TCC
+RNA Metabolism,RNA processing and modification,none,tRNA-His-GTG
+RNA Metabolism,RNA processing and modification,none,tRNA-Ile-GAT
+RNA Metabolism,RNA processing and modification,none,tRNA-Leu-TAA
+RNA Metabolism,RNA processing and modification,none,tRNA-Leu-TAG
+RNA Metabolism,RNA processing and modification,none,tRNA-Lys-TTT
+RNA Metabolism,RNA processing and modification,none,tRNA-Met-CAT
+RNA Metabolism,RNA processing and modification,none,tRNA-Pro-TGG
+RNA Metabolism,RNA processing and modification,none,tRNA-Ser-GCT
+RNA Metabolism,RNA processing and modification,none,tRNA-Ser-TGA
+RNA Metabolism,RNA processing and modification,none,tRNA-Thr-GGT
+RNA Metabolism,RNA processing and modification,none,tRNA-Thr-TGT
+RNA Metabolism,RNA processing and modification,none,tRNA-Tyr-GTA
+RNA Metabolism,RNA processing and modification,none,tRNA-Val-TAC
+RNA Metabolism,RNA processing and modification,tRNA methylthiolation,tRNA-i(6)A37 methylthiotransferase (EC 2.8.4.3)
+RNA Metabolism,RNA processing and modification,RNA methylation,tRNA-specific 2-thiouridylase MnmA (EC 2.8.1.13)
+RNA Metabolism,RNA processing and modification,RNA methylation,tRNA/rRNA methyltransferase
+RNA Metabolism,RNA processing and modification,none,transcriptional regulator protein
+RNA Metabolism,RNA processing and modification,none,"transcriptional regulator, MarR family"
+DNA Metabolism,DNA Metabolism - no subcategory,Restriction Enzyme,type II restriction enzyme eco47ii
+DNA Metabolism,CRISPs,CRISPRs,CRISPR region with repeat agttgggaaagcccttattttgaagggtatctacaac
+DNA Metabolism,CRISPs,CRISPRs,CRISPR region with repeat ttgattaaagattagaaaacacgatatta
+DNA Metabolism,CRISPs,CRISPRs,CRISPR repeat with sequence aaaaccgaattcaatttttttgaaggagggacgagcg
+DNA Metabolism,CRISPs,CRISPRs,CRISPR repeat with sequence agttgggaaagcccttattttgaagagtatctacaac
+DNA Metabolism,CRISPs,CRISPRs,CRISPR repeat with sequence agttgggaaagcccttattttgaaggagggacgagcg
+DNA Metabolism,CRISPs,CRISPRs,CRISPR repeat with sequence agttgggaaagcccttattttgaagggtatctacaac
+DNA Metabolism,CRISPs,CRISPRs,CRISPR repeat with sequence gattataattgattaaagattagaaaacacgatatt
+DNA Metabolism,CRISPs,CRISPRs,CRISPR repeat with sequence ggttgggaaagcccttattttgaagggtatctacaac
+DNA Metabolism,CRISPs,CRISPRs,CRISPR repeat with sequence tgttgggaaagcccttattttgaagggtatctacaac
+DNA Metabolism,CRISPs,CRISPRs,CRISPR repeat with sequence ttgattaaagattagaaaacacgatatta
+DNA Metabolism,CRISPs,CRISPRs,CRISPR repeat with sequence ttgattaaagattagaaaacacgatattt
+DNA Metabolism,CRISPs,CRISPRs,CRISPR repeat with sequence ttggttaaaaattacgattgtaatttcag
+Protein Metabolism,Protein degradation,Protein degradation,"Endolysin, L-alanyl-D-glutamate peptidase"
+"Phages, Prophages, Transposable elements, Plasmids",Transposable elements,Transposase,"Il-IS_2, transposase"
+Protein Metabolism,Protein degradation,Protein degradation,L-alanoyl-D-glutamate peptidase
+RNA Metabolism,RNA processing and modification,none,LuxR family transcriptional regulator protein
+Protein Metabolism,Protein degradation,Protein degradation,Membrane-associated zinc metalloprotease
+Membrane Transport,Protein transport,Protein transport,Preprotein translocase subunit SecE (TC 3.A.5.1.1)
+Protein Metabolism,Protein degradation,Protein degradation,Putative stomatin/prohibitin-family membrane protease subunit PA4582
+DNA Metabolism,DNA replication,DNA polymerase,RNA-directed DNA polymerase (Reverse transcriptase)
+"Virulence, Disease and Defense",Resistance to antibiotics and toxic compounds,none,Tetracycline resistance element mobilization regulatory protein RteC
+"Phages, Prophages, Transposable elements, Plasmids",Transposable elements,Transposase,"Transposase, IS3/IS911 family"
+"Phages, Prophages, Transposable elements, Plasmids",Transposable elements,Transposase,"Transposase, mutator type"
+DNA Metabolism,DNA Metabolism - no subcategory,Nuclease,Type II site-specific deoxyribonuclease( EC:3.1.21.4 )
+"Phages, Prophages, Transposable elements, Plasmids",Transposable elements,Integrase,integrase
+Protein Metabolism,Protein degradation,Protein degradation,peptidase M23B
+RNA Metabolism,RNA processing and modification,none,"transcriptional regulator, Crp family protein"
+"Phages, Prophages, Transposable elements, Plasmids",Transposable elements,Transposase,transposase
+"Phages, Prophages, Transposable elements, Plasmids",Transposable elements,Transposase,transposase of IS654-like element
+Membrane Transport,ABC-transporters,none,"ABC transporter, ATP-binding protein (cluster 1, maltose/g3p/polyamine/iron); ABC transporter, ATP-binding protein (cluster 10, nitrate/sulfonate/bicarbonate)"
+Membrane Transport,ABC-transporters,none,"ABC transporter, substrate-binding protein (cluster 4, leucine/isoleucine/valine/benzoate)"
+"Virulence, Disease and Defense",Resistance to antibiotics and toxic compounds,none,"ABC-type transport system involved in resistance to organic solvents, permease component"
+Membrane Transport,ABC-transporters,none,"ABC-type transport system involved in resistance to organic solvents, permease component"
+Membrane Transport,ABC-transporters,none,ABC-type transporter ATP-binding protein
+RNA Metabolism,RNA Metabolism - no subcategory,RNA helicase,ATP-dependent RNA helicase BT1154
+DNA Metabolism,DNA Metabolism - no subcategory,DNA helicase,"ATP-dependent, 3&#39;-5&#39; DNA helicase with strand annealing activity"
+"Virulence, Disease and Defense",Resistance to antibiotics and toxic compounds,none,AcrA/AcrE family multidrug resistance protein
+"Virulence, Disease and Defense",Resistance to antibiotics and toxic compounds,none,Acriflavin resistance protein
+Protein Metabolism,Protein degradation,Aminopeptidases,Aminopeptidase CC_2544
+Protein Metabolism,Protein degradation,Aminopeptidases,Aminopeptidase N-like protein
+RNA Metabolism,RNA processing and modification,Nuclease,"Barstar, ribonuclease (Barnase) inhibitor"
+Stress Response,Oxidative stress,Aerotolerance,BatC
+Protein Metabolism,Protein degradation,Protein degradation,CAAX amino terminal protease family family
+DNA Metabolism,DNA Metabolism - no subcategory,Nuclease,COG2827: putative endonuclease containing a URI domain
+RNA Metabolism,RNA processing and modification,Nuclease,COG2827: putative endonuclease containing a URI domain
+DNA Metabolism,CRISPs,CRISPRs,CRISPR region with repeat gttgtgaattgctttcatttatcagtatctttgggatacacaacaac
+DNA Metabolism,CRISPs,CRISPRs,CRISPR region with repeat gttgttgtgtatcccaaagatactgataaatgaaagcaattcacaac
+DNA Metabolism,CRISPs,CRISPRs,CRISPR repeat with sequence gttgtgaattgctttcatttatcagtatctttgggatacacaacaac
+DNA Metabolism,CRISPs,CRISPRs,CRISPR repeat with sequence gttgttgtgtatcccaaagatactgataaagaaagcaatca
+DNA Metabolism,CRISPs,CRISPRs,CRISPR repeat with sequence gttgttgtgtatcccaaagatactgataaatgaaagcaattcacaac
+DNA Metabolism,CRISPs,CRISPRs,CRISPR repeat with sequence tattattgttattttcatttatcaatatctttgggatacacaacaac
+Membrane Transport,Uni- Sym- and Antiporters,none,Calcium/proton antiporter
+Protein Metabolism,Protein degradation,Protein degradation,Catalase KatE-intracellular protease (EC 1.11.1.6)
+Respiration,Respiration - no subcategory,Cytochrome,Cytochrome c peroxidase (EC 1.11.1.5)
+Respiration,Respiration - no subcategory,Cytochrome,Cytochrome p460
+Protein Metabolism,Protein degradation,Protein degradation,D-alanyl-D-alanine carboxypeptidase-like protein
+DNA Metabolism,DNA Metabolism - no subcategory,DNA methylation,"DNA methylase, putative"
+DNA Metabolism,DNA replication,DNA polymerase,DNA polymerase III subunit epsilon
+DNA Metabolism,DNA replication,DNA polymerase,"DNA polymerase III, alpha subunit"
+DNA Metabolism,DNA repair,none,DNA repair system specific for alkylated DNA
+Regulation and Cell signaling,Regulation and Cell signaling - no subcategory,Two-component regulatory system,"DNA-binding response regulator, AraC family"
+Regulation and Cell signaling,Regulation and Cell signaling - no subcategory,Two-component regulatory system,"DNA-binding response regulator, LuxR family"
+DNA Metabolism,DNA Metabolism - no subcategory,Nuclease,Deoxyinosine 3&#39;endonuclease (endonuclease V)- like protein
+RNA Metabolism,RNA processing and modification,Nuclease,Deoxyinosine 3&#39;endonuclease (endonuclease V)- like protein
+RNA Metabolism,Transcription,"Transcription initiation, bacterial sigma factors",EXTRACYTOPLASMIC FUNCTION ALTERNATIVE SIGMA FACTOR
+Membrane Transport,ABC-transporters,none,"Efflux ABC transporter, permease protein"
+Membrane Transport,Membrane Transport - no subcategory,none,"Efflux transport system, outer membrane factor (OMF) lipoprotein"
+DNA Metabolism,DNA Metabolism - no subcategory,Nuclease,Endonuclease
+RNA Metabolism,RNA processing and modification,Nuclease,Endonuclease
+DNA Metabolism,DNA Metabolism - no subcategory,Nuclease,Endonuclease/exonuclease/phosphatase family protein
+RNA Metabolism,RNA processing and modification,Nuclease,Endonuclease/exonuclease/phosphatase family protein
+DNA Metabolism,DNA replication,DNA polymerase,"Error-prone, lesion bypass DNA polymerase V (UmuC)"
+DNA Metabolism,DNA Metabolism - no subcategory,Nuclease,"Excinuclease ABC, C subunit domain protein"
+RNA Metabolism,RNA processing and modification,Nuclease,"Excinuclease ABC, C subunit domain protein"
+DNA Metabolism,DNA Metabolism - no subcategory,Nuclease,"Excinuclease ABC, C subunit-like"
+RNA Metabolism,RNA processing and modification,Nuclease,"Excinuclease ABC, C subunit-like"
+"Virulence, Disease and Defense",Resistance to antibiotics and toxic compounds,none,Glyoxalase/bleomycin resistance protein/dioxygenase precursor
+Protein Metabolism,Protein biosynthesis,Ribosome LSU/SSU bacterial,"LSU ribosomal protein L36p @ LSU ribosomal protein L36p, zinc-independent"
+Protein Metabolism,Protein degradation,Protein degradation,Membrane protease family protein BA0301
+Membrane Transport,Membrane Transport - no subcategory,none,Mg(2+)-transport-ATPase-associated protein MgtC
+Membrane Transport,ABC-transporters,none,Molybdenum ABC transporter permease protein ModB
+Membrane Transport,ABC-transporters,none,"Molybdenum ABC transporter, substrate-binding protein ModA"
+Membrane Transport,Membrane Transport - no subcategory,none,"N-acetylglucosamine related transporter, NagX"
+Membrane Transport,Uni- Sym- and Antiporters,none,Na+/H+ antiporter
+Membrane Transport,Uni- Sym- and Antiporters,none,"Na+/H+ antiporter, NhaP family"
+Membrane Transport,Uni- Sym- and Antiporters,none,Na+/H+-dicarboxylate symporter
+Membrane Transport,Uni- Sym- and Antiporters,none,Na+/H+-exchanging protein (Na+/H+ antiporter)
+Membrane Transport,ABC-transporters,none,"Oligopeptide ABC transporter, permease protein OppC (TC 3.A.1.5.1)"
+Regulation and Cell signaling,Regulation and Cell signaling - no subcategory,Two-component regulatory system,Osmosensitive K+ channel histidine kinase KdpD
+Protein Metabolism,Protein degradation,Protein degradation,Peptidase
+Protein Metabolism,Protein degradation,Protein degradation,"Peptidase M48, Ste24p"
+Protein Metabolism,Protein degradation,Protein degradation,"Peptidase M50, putative membrane-associated zinc metallopeptidase"
+Protein Metabolism,Protein degradation,Protein degradation,"Peptidase, M48 family"
+Protein Metabolism,Protein degradation,Protein degradation,"Peptidase, S41 family"
+DNA Metabolism,DNA Metabolism - no subcategory,Nuclease,Possible restriction endonuclease
+RNA Metabolism,RNA processing and modification,Nuclease,Possible restriction endonuclease
+DNA Metabolism,DNA Metabolism - no subcategory,Restriction Enzyme,Possible restriction endonuclease
+"Virulence, Disease and Defense",Resistance to antibiotics and toxic compounds,none,Probable multidrug resistance protein
+Protein Metabolism,Protein degradation,Protein degradation,Probable zinc protease pqqL (EC 3.4.99.-)
+Membrane Transport,Uni- Sym- and Antiporters,none,Proton/glutamate symporter @ Sodium/glutamate symporter
+Carbohydrates,Polysaccharides,Polysaccharide biosynthesis,Putative mannosyltransferase involved in polysaccharide biosynthesis
+Protein Metabolism,Protein degradation,Protein degradation,Putative peptidase
+Membrane Transport,Membrane Transport - no subcategory,none,Putative transport protein
+Membrane Transport,Membrane Transport - no subcategory,none,Putative transporter
+Regulation and Cell signaling,Regulation and Cell signaling - no subcategory,Two-component regulatory system,"Putative two-component system sensor protein, no kinase domain"
+Membrane Transport,Membrane Transport - no subcategory,none,"RND efflux system, inner membrane transporter"
+RNA Metabolism,RNA processing and modification,none,ROK family sugar kinase or transcriptional regulator
+Regulation and Cell signaling,Regulation and Cell signaling - no subcategory,Two-component regulatory system,Response regulator receiver
+Regulation and Cell signaling,Regulation and Cell signaling - no subcategory,Two-component regulatory system,"Response regulator receiver:Transcriptional regulatory protein, C-terminal"
+RNA Metabolism,RNA processing and modification,none,"Response regulator receiver:Transcriptional regulatory protein, C-terminal"
+RNA Metabolism,RNA processing and modification,Nuclease,"Ribonuclease (Barnase), secreted"
+RNA Metabolism,RNA processing and modification,Nuclease,Ribonuclease BN
+RNA Metabolism,RNA processing and modification,Nuclease,Ribonuclease BN (EC 3.1.-.-)
+Membrane Transport,Membrane Transport - no subcategory,none,SSS sodium solute transporter superfamily
+Regulation and Cell signaling,Regulation and Cell signaling - no subcategory,Two-component regulatory system,Sensor histidine kinase/response regulator
+Regulation and Cell signaling,Regulation and Cell signaling - no subcategory,Two-component regulatory system,Signal transduction histidine kinase
+Membrane Transport,Uni- Sym- and Antiporters,none,Sodium iodide symporter
+Membrane Transport,ABC-transporters,none,Spermidine/putrescine import ABC transporter ATP-binding protein PotA (TC 3.A.1.11.1)
+Membrane Transport,"Protein secretion system, Type VI",T6 SS component,T6SS PAAR-repeat protein
+Membrane Transport,"Protein secretion system, Type VI",T6 SS component,T6SS baseplate protein J-like component
+Membrane Transport,"Protein secretion system, Type VI",T6 SS component,T6SS component FIG00414986
+Membrane Transport,"Protein secretion system, Type VI",T6 SS component,T6SS forkhead associated domain protein ImpI/VasC
+Membrane Transport,"Protein secretion system, Type VI",T6 SS component,T6SS lysozyme-like component TssE
+"Virulence, Disease and Defense",Resistance to antibiotics and toxic compounds,none,Tellurium resistance protein
+"Virulence, Disease and Defense",Resistance to antibiotics and toxic compounds,none,Tellurium resistance protein TerD
+"Virulence, Disease and Defense",Resistance to antibiotics and toxic compounds,none,"Tetracycline resistance, MFS efflux pump => Tet(C)"
+RNA Metabolism,RNA processing and modification,none,Transcription regulator [contains diacylglycerol kinase catalytic domain]
+RNA Metabolism,RNA processing and modification,none,"Transcriptional regulator YeiE, LysR family"
+RNA Metabolism,RNA processing and modification,none,"Transcriptional regulator, BadM/Rrf2 family"
+RNA Metabolism,RNA processing and modification,none,"Transcriptional regulator, LacI family"
+RNA Metabolism,RNA processing and modification,none,"Transcriptional regulator, TetR family"
+Regulation and Cell signaling,Regulation and Cell signaling - no subcategory,Two-component regulatory system,Two-component system response regulator
+Regulation and Cell signaling,Regulation and Cell signaling - no subcategory,Two-component regulatory system,Two-component system sensor histidine kinase FrrD
+Regulation and Cell signaling,Regulation and Cell signaling - no subcategory,Two-component regulatory system,"Two-component transcriptional response regulator, NarL/FixJ family"
+RNA Metabolism,RNA processing and modification,none,"Two-component transcriptional response regulator, NarL/FixJ family"
+RNA Metabolism,RNA processing and modification,none,"Uncharacterized transcriptional regulator YozG, Cro/CI family"
+Protein Metabolism,Protein degradation,Aminopeptidases,aminopeptidase M1 family protein
+"Virulence, Disease and Defense",Resistance to antibiotics and toxic compounds,none,bleomycin resistance protein
+Membrane Transport,Membrane Transport - no subcategory,none,cation diffusion facilitator family transporter
+Membrane Transport,ABC-transporters,none,"efflux ABC transporter, permease protein"
+Carbohydrates,Polysaccharides,Polysaccharide biosynthesis,"exopolysaccharide biosynthesis protein, acetyltransferase"
+"Virulence, Disease and Defense",Resistance to antibiotics and toxic compounds,none,glyoxalase/Bleomycin resistance protein/Dioxygenase family protein
+Stress Response,Heat shock,none,heat shock protein Hsp20
+DNA Metabolism,DNA Metabolism - no subcategory,Nuclease,nuclease (SNase-like)
+RNA Metabolism,RNA processing and modification,Nuclease,nuclease (SNase-like)
+DNA Metabolism,DNA repair,none,probable DNA alkylation repair enzyme
+Protein Metabolism,Protein degradation,Aminopeptidases,probable cytosol aminopeptidase( EC:3.4.11.1 )
+Membrane Transport,Membrane Transport - no subcategory,Ton and Tol transopt system,probable tonB-dependent receptor
+Membrane Transport,ABC-transporters,none,putative ABC transporter permease
+Membrane Transport,Membrane Transport - no subcategory,none,putative HlyD-family transporter
+Membrane Transport,Membrane Transport - no subcategory,Ton and Tol transopt system,putative TonB-dependent Outer membrane receptor
+RNA Metabolism,Transcription,"Transcription initiation, bacterial sigma factors",putative anti-sigma factor
+Protein Metabolism,Protein degradation,Protein degradation,putative carboxypeptidase
+"Phages, Prophages, Transposable elements, Plasmids",Transposable elements,Integrase,putative integrase/recombinase
+Regulation and Cell signaling,Regulation and Cell signaling - no subcategory,Two-component regulatory system,putative two-component system sensor protein histidine kinase
+Regulation and Cell signaling,Regulation and Cell signaling - no subcategory,Two-component regulatory system,"putative two-component system sensor protein, no kinase domain"
+Regulation and Cell signaling,Regulation and Cell signaling - no subcategory,Two-component regulatory system,response regulator receiver domain protein
+Regulation and Cell signaling,Regulation and Cell signaling - no subcategory,Two-component regulatory system,response regulator receiver modulated diguanylate phosphodiesterase
+Regulation and Cell signaling,Regulation and Cell signaling - no subcategory,Two-component regulatory system,"sensor for ctr capsule biosynthesis, probable histidine kinase acting on RcsB( EC:2.7.3.- )"
+Regulation and Cell signaling,Regulation and Cell signaling - no subcategory,Two-component regulatory system,sensor histidine kinase
+"Virulence, Disease and Defense",Resistance to antibiotics and toxic compounds,none,small multidrug resistance family (SMR) protein
+RNA Metabolism,RNA processing and modification,Pseudouridinylation,tRNA pseudouridine(65) synthase (EC 5.4.99.26)
+RNA Metabolism,RNA processing and modification,none,tRNA-Ala-GGC
+RNA Metabolism,RNA processing and modification,none,tRNA-Arg-ACG
+RNA Metabolism,RNA processing and modification,none,tRNA-Arg-CCT
+RNA Metabolism,RNA processing and modification,none,tRNA-Arg-TCG
+RNA Metabolism,RNA processing and modification,none,tRNA-Cys-GCA
+RNA Metabolism,RNA processing and modification,none,tRNA-Gly-GCC
+RNA Metabolism,RNA processing and modification,none,tRNA-Leu-CAA
+RNA Metabolism,RNA processing and modification,none,tRNA-Leu-GAG
+RNA Metabolism,RNA processing and modification,none,tRNA-Phe-GAA
+RNA Metabolism,RNA processing and modification,none,tRNA-Pseudo-GTC
+RNA Metabolism,RNA processing and modification,none,tRNA-Ser-GGA
+RNA Metabolism,RNA processing and modification,none,tRNA-Trp-CCA
+RNA Metabolism,RNA processing and modification,none,transcriptional regulator
+RNA Metabolism,RNA processing and modification,none,"transcriptional regulator, BadM/Rrf2 family"
+RNA Metabolism,RNA processing and modification,none,"transcriptional regulator, LacI family"
+Membrane Transport,Membrane Transport - no subcategory,none,transport system permease protein
+Membrane Transport,Membrane Transport - no subcategory,none,transport-associated protein
+Membrane Transport,Membrane Transport - no subcategory,none,"transporter, sodium/bile acid symporter family"
+Membrane Transport,Uni- Sym- and Antiporters,none,"transporter, sodium/bile acid symporter family"
+RNA Metabolism,RNA processing and modification,none,"two component transcriptional regulator, LuxR family"
+RNA Metabolism,RNA processing and modification,none,"two component transcriptional regulator, LytTR family"
+RNA Metabolism,RNA processing and modification,none,"two component transcriptional regulator, winged helix family"
+RNA Metabolism,RNA processing and modification,none,"two component transcriptional regulator, winged helix family protein"
+Regulation and Cell signaling,Regulation and Cell signaling - no subcategory,Two-component regulatory system,two-component sensor histidine kinase
+Regulation and Cell signaling,Regulation and Cell signaling - no subcategory,Two-component regulatory system,twp-component sensor histidine kinase
+Protein Metabolism,Protein degradation,Protein degradation,zinc protease PqqL( EC:3.4.- )
+Membrane Transport,ABC-transporters,none,"ABC transporter, ATP-binding protein (cluster 9, phospholipid)"
+Membrane Transport,ABC-transporters,none,"ABC transporter, permease protein (cluster 9, phospholipid)"
+Membrane Transport,ABC-transporters,none,"ABC transporter, substrate-binding protein (cluster 1, maltose/g3p/polyamine/iron)"
+DNA Metabolism,DNA Metabolism - no subcategory,DNA helicase,ATP-dependent DNA helicase SCO5184
+RNA Metabolism,RNA Metabolism - no subcategory,RNA helicase,ATP-dependent RNA helicase
+DNA Metabolism,DNA repair,none,"ATPase involved in DNA repair, phage associated"
+"Virulence, Disease and Defense",Resistance to antibiotics and toxic compounds,none,Acid-resistant locus arl7 (Fragment)
+Secondary Metabolism,"Bacterial cytostatics, differentiation factors and antibiotics",Antibiotics biosynthesis,Antibiotic biosynthesis monooxygenase
+"Virulence, Disease and Defense",Resistance to antibiotics and toxic compounds,none,Arsenical-resistance protein ACR3
+"Virulence, Disease and Defense",Resistance to antibiotics and toxic compounds,none,Bleomycin resistance protein
+Cell Wall and Capsule,Capsular and extracellular polysacchrides,Capsular Polysaccharides Biosynthesis and Assembly,Capsular polysaccharide biosynthesis protein capD
+Cell Wall and Capsule,Capsular and extracellular polysacchrides,Capsular Polysaccharides Biosynthesis and Assembly,Capsular polysaccharide synthesis enzyme Cap5H; O-acetyl transferase
+Cell Wall and Capsule,Capsular and extracellular polysacchrides,Capsular Polysaccharides Biosynthesis and Assembly,Capsular polysaccharide synthesis enzyme Cap8C; Manganese-dependent protein-tyrosine phosphatase (EC 3.1.3.48)
+Regulation and Cell signaling,Regulation and Cell signaling - no subcategory,Two-component regulatory system,CheY-like response regulator
+Respiration,Respiration - no subcategory,Cytochrome,Cytochrome P-450:NADPH-P-450 reductase
+Respiration,Respiration - no subcategory,Cytochrome,Cytochrome c family protein
+DNA Metabolism,DNA replication,DNA polymerase,DEDDh 3&#39;-5&#39; exonuclease domain of the epsilon subunit of DNA polymerase III
+DNA Metabolism,DNA Metabolism - no subcategory,Nuclease,DEDDh 3&#39;-5&#39; exonuclease domain of the epsilon subunit of DNA polymerase III
+DNA Metabolism,DNA repair,none,DNA alkylation repair enzyme
+DNA Metabolism,DNA repair,none,DNA mismatch repair protein precursor (EC 3.2.1.4)
+Regulation and Cell signaling,Regulation and Cell signaling - no subcategory,Two-component regulatory system,DNA-binding response regulator
+Regulation and Cell signaling,Regulation and Cell signaling - no subcategory,Two-component regulatory system,DNA-binding response regulator DegU
+Regulation and Cell signaling,Regulation and Cell signaling - no subcategory,Two-component regulatory system,DNA-binding response regulator/sensor histidine kinase
+RNA Metabolism,RNA processing and modification,none,"DNA-binding transcriptional regulator, MocR family / aminotransferase domain"
+DNA Metabolism,DNA Metabolism - no subcategory,Nuclease,Endo/excinuclease amino terminal domain protein
+RNA Metabolism,RNA processing and modification,Nuclease,Endo/excinuclease amino terminal domain protein
+RNA Metabolism,RNA processing and modification,none,FIG032842: Transcriptional regulator
+Membrane Transport,ABC-transporters,none,"Ferric iron ABC transporter, ATP-binding protein"
+"Virulence, Disease and Defense",Resistance to antibiotics and toxic compounds,none,Fosmidomycin resistance protein
+Regulation and Cell signaling,Regulation and Cell signaling - no subcategory,Two-component regulatory system,GAF sensor hybrid histidine kinase
+Membrane Transport,ABC-transporters,none,Gliding motility-associated ABC transporter permease protein GldF / Gliding motility-associated ABC transporter substrate-binding protein GldG
+"Virulence, Disease and Defense",Resistance to antibiotics and toxic compounds,none,Glyoxalase/Bleomycin resistance protein/Dioxygenase family protein
+DNA Metabolism,DNA Metabolism - no subcategory,Restriction Enzyme,"Helicase, C-terminal:Type III restriction enzyme, res subunit:DEAD/DEAH box helicase, N-terminal"
+DNA Metabolism,DNA repair,none,HhH-GPD base excision DNA repair family protein; Probable 3-methyladenine DNA glycosylase/8-oxoguanine DNA glycosylase
+Protein Metabolism,Protein degradation,Protein degradation,"L,D-transpeptidase"
+Membrane Transport,Uni- Sym- and Antiporters,none,L-rhamnose-proton symporter
+Protein Metabolism,Protein degradation,Aminopeptidases,Leucine aminopeptidase-related protein
+Cell Wall and Capsule,Gram-Negative cell wall components,Lipopolysaccharides,Lipopolysaccharide biosynthesis protein
+Carbohydrates,Polysaccharides,Polysaccharide biosynthesis,Lipopolysaccharide biosynthesis protein
+Protein Metabolism,Protein degradation,Protein degradation,"M23/M37 peptidase/aminotransferase, class III"
+Protein Metabolism,Protein degradation,Protein degradation,Membrane metalloprotease
+Membrane Transport,Membrane Transport - no subcategory,none,Membrane protein; possible DMT superfamily transporter
+Protein Metabolism,Protein degradation,Protein degradation,Milk-clotting protease
+DNA Metabolism,DNA Metabolism - no subcategory,DNA methylation,Modification methylase (EC 2.1.1.37)
+Regulation and Cell signaling,Regulation and Cell signaling - no subcategory,Two-component regulatory system,"Multidomain signal transduction protein including CheB-like methylesterase, CheR-like methyltransferase and BaeS-like histidine kinase"
+Membrane Transport,ABC-transporters,none,"Nitrate ABC transporter, ATP-binding protein"
+Membrane Transport,ABC-transporters,none,"Nitrate ABC transporter, permease protein"
+Membrane Transport,ABC-transporters,none,"Nitrate ABC transporter, substrate-binding protein"
+Membrane Transport,Membrane Transport - no subcategory,none,Outer membrane autotransporter barrel
+Regulation and Cell signaling,Regulation and Cell signaling - no subcategory,Two-component regulatory system,PAS/PAC sensor signal transduction histidine kinase
+Protein Metabolism,Protein degradation,Protein degradation,"Peptidase, M20/M25/M40 family"
+Protein Metabolism,Protein degradation,Protein degradation,"Peptidase, M23/M37 family"
+Regulation and Cell signaling,Regulation and Cell signaling - no subcategory,Two-component regulatory system,Periplasmic ligand-binding sensor domain COG3292 / BaeS-type histidine kinase / OmpR-type DNA-binding response regulator
+Membrane Transport,Membrane Transport - no subcategory,none,Polysialic acid transport protein KpsD precursor
+Protein Metabolism,Protein degradation,Protein degradation,Predicted Zn-dependent protease
+Membrane Transport,Membrane Transport - no subcategory,none,Predicted maltose transporter MalT
+Membrane Transport,Membrane Transport - no subcategory,none,Predicted sodium-dependent galactose transporter
+RNA Metabolism,RNA processing and modification,none,Predicted transcriptional regulators
+DNA Metabolism,DNA replication,DNA polymerase,Probable DNA polymerase III epsilon chain
+Membrane Transport,Membrane Transport - no subcategory,Ton and Tol transopt system,Probable tonB-dependent receptor yncD precursor
+"Phages, Prophages, Transposable elements, Plasmids",Transposable elements,Transposase,Probable transposase
+Protein Metabolism,Protein degradation,Protein degradation,"Protein containing transglutaminase-like domain, putative cysteine protease"
+DNA Metabolism,DNA Metabolism - no subcategory,DNA helicase,Putative DNA helicase
+DNA Metabolism,DNA Metabolism - no subcategory,Type I Restriction-Modification,Putative DNA-binding protein in cluster with Type I restriction-modification system
+RNA Metabolism,Transcription,"Transcription initiation, bacterial sigma factors",Putative anti-sigma factor
+Membrane Transport,Membrane Transport - no subcategory,none,Putative molybdenum transport ATP-binding protein modF
+"Phages, Prophages, Transposable elements, Plasmids",Transposable elements,Transposase,Putative transposase InsK for insertion sequence element IS150
+Regulation and Cell signaling,Regulation and Cell signaling - no subcategory,Two-component regulatory system,"Regulatory protein, LuxR:Response regulator receiver"
+DNA Metabolism,DNA Metabolism - no subcategory,DNA helicase,Related to 5&#39; to 3&#39; DNA helicase
+Regulation and Cell signaling,Regulation and Cell signaling - no subcategory,Two-component regulatory system,Sensory box histidine kinase
+Regulation and Cell signaling,Regulation and Cell signaling - no subcategory,Two-component regulatory system,Sensory box histidine kinase/response regulator
+Membrane Transport,Membrane Transport - no subcategory,Siderophore,"Siderophore biosynthesis L-2,4-diaminobutyrate decarboxylase"
+Membrane Transport,Membrane Transport - no subcategory,Siderophore,"Siderophore biosynthesis protein, monooxygenase"
+Membrane Transport,Membrane Transport - no subcategory,Siderophore,"Siderophore synthetase large component, acetyltransferase / Siderophore synthetase small component, acetyltransferase"
+Stress Response,Heat shock,none,Small heat shock protein
+Membrane Transport,Membrane Transport - no subcategory,none,Sodium-dependent transporter
+Membrane Transport,Uni- Sym- and Antiporters,none,Sodium:galactoside symporter family protein
+DNA Metabolism,DNA Metabolism - no subcategory,DNA helicase,"Superfamily II DNA/RNA helicases, SNF2 family"
+RNA Metabolism,RNA Metabolism - no subcategory,RNA helicase,"Superfamily II DNA/RNA helicases, SNF2 family"
+Membrane Transport,Membrane Transport - no subcategory,Ton and Tol transopt system,TonB
+Membrane Transport,Membrane Transport - no subcategory,Ton and Tol transopt system,TonB-dependent receptor Fjoh_0545
+Membrane Transport,Membrane Transport - no subcategory,Ton and Tol transopt system,TonB-dependent receptor plug
+Membrane Transport,Membrane Transport - no subcategory,Ton and Tol transopt system,"TonB-dependent receptor, plug precursor"
+RNA Metabolism,RNA processing and modification,none,"Transcriptional regulator CidR, LysR family"
+RNA Metabolism,RNA processing and modification,none,"Transcriptional regulator of fucose utilization, GntR family"
+RNA Metabolism,RNA processing and modification,none,"Transcriptional regulator of rhamnose utilization, GntR family"
+RNA Metabolism,RNA processing and modification,none,"Transcriptional regulator, LacI/PurR family"
+Membrane Transport,Membrane Transport - no subcategory,none,"Transcriptional regulator, MerR family, near polyamine transporter"
+RNA Metabolism,RNA processing and modification,none,"Transcriptional regulator, MerR family, near polyamine transporter"
+RNA Metabolism,RNA processing and modification,none,Transcriptional regulatory protein zraR
+Membrane Transport,Membrane Transport - no subcategory,none,"Transporter, LysE family"
+Regulation and Cell signaling,Regulation and Cell signaling - no subcategory,Two-component regulatory system,Two-component response regulator
+Regulation and Cell signaling,Regulation and Cell signaling - no subcategory,Two-component regulatory system,Two-component system sensor histidine kinase/response regulator hybrid
+Membrane Transport,Membrane Transport - no subcategory,none,Uncharacterized MFS-type transporter YhjE
+Membrane Transport,Uni- Sym- and Antiporters,none,Uncharacterized sugar:proton symporter
+Protein Metabolism,Protein degradation,Protein degradation,X-Pro dipeptidyl-peptidase
+Respiration,Respiration - no subcategory,Cytochrome,cytochrome cbb3 oxidase maturation protein CcoH
+Regulation and Cell signaling,Regulation and Cell signaling - no subcategory,Two-component regulatory system,integral membrane sensor signal transduction histidine kinase
+DNA Metabolism,DNA Metabolism - no subcategory,Nuclease,nuclease inhibitor
+RNA Metabolism,RNA processing and modification,Nuclease,nuclease inhibitor
+Protein Metabolism,Protein degradation,Protein degradation,peptidase M16 domain protein
+DNA Metabolism,DNA Metabolism - no subcategory,Nuclease,"prophage LambdaSa2, HNH endonuclease family protein"
+RNA Metabolism,RNA processing and modification,Nuclease,"prophage LambdaSa2, HNH endonuclease family protein"
+Membrane Transport,Uni- Sym- and Antiporters,none,"proton/glutamate symporter family protein, putative"
+RNA Metabolism,RNA processing and modification,none,putative Crp/Fnr family transcriptional regulator
+Respiration,Respiration - no subcategory,Cytochrome,putative cytochrome P450 hydroxylase
+Cell Wall and Capsule,Capsular and extracellular polysacchrides,Capsular Polysaccharides Biosynthesis and Assembly,putative protein involved in capsular polysaccharide biosynthesis
+DNA Metabolism,DNA Metabolism - no subcategory,Nuclease,putative restriction endonuclease
+RNA Metabolism,RNA processing and modification,Nuclease,putative restriction endonuclease
+DNA Metabolism,DNA Metabolism - no subcategory,Restriction Enzyme,putative restriction endonuclease
+Membrane Transport,Membrane Transport - no subcategory,none,putative sodium/hexose cotransport protein
+Membrane Transport,Uni- Sym- and Antiporters,none,putative solute:Na symporter
+Membrane Transport,Uni- Sym- and Antiporters,none,"sodium-solute symporter, putative"
+RNA Metabolism,RNA processing and modification,none,tRNA-Pseudo-GAT
+RNA Metabolism,RNA processing and modification,none,tRNA-Pseudo-GCA
+RNA Metabolism,RNA processing and modification,none,"transcriptional regulator, GntR family protein"
+RNA Metabolism,RNA processing and modification,none,"transcriptional regulator, TetR family"
+RNA Metabolism,RNA processing and modification,none,"transcriptional regulator, XRE family"
+RNA Metabolism,RNA processing and modification,none,"two component transcriptional regulator, LuxR family protein"
+Regulation and Cell signaling,Regulation and Cell signaling - no subcategory,Two-component regulatory system,two-component hybrid sensor and regulator
+Protein Metabolism,Protein degradation,Protein degradation,CAAX amino terminal protease family protein
+Protein Metabolism,Protein degradation,Protein degradation,Carboxypeptidase-related protein
+Protein Metabolism,Protein degradation,Protein degradation,"Conserved membrane protein, possible homolog of CAAX-like membrane endopeptidase"
+Respiration,Respiration - no subcategory,Cytochrome,Copper-containing nitrite reductase-like / Cytochrome c
+Respiration,Respiration - no subcategory,Cytochrome,Cytochrome P450 hydroxylase
+Respiration,Respiration - no subcategory,Cytochrome,Di-haem cytochrome c peroxidase family protein
+Protein Metabolism,Protein degradation,Protein degradation,"FIG015547: peptidase, M16 family / FIG015287: Zinc protease"
+"Virulence, Disease and Defense",Resistance to antibiotics and toxic compounds,none,Glyoxalase/bleomycin resistance family metalloprotein
+Membrane Transport,Membrane Transport - no subcategory,none,Hexuronate transporter
+"Phages, Prophages, Transposable elements, Plasmids",Transposable elements,Transposase,"ISSod11, transposase"
+"Virulence, Disease and Defense",Resistance to antibiotics and toxic compounds,none,Inner membrane component of tripartite multidrug resistance system
+"Phages, Prophages, Transposable elements, Plasmids",Transposable elements,Integrase,Integrase protein
+Membrane Transport,Membrane Transport - no subcategory,Siderophore,Iron siderophore sensor protein
+"Virulence, Disease and Defense",Resistance to antibiotics and toxic compounds,none,Mercuric resistance operon regulatory protein MerR
+Membrane Transport,Membrane Transport - no subcategory,none,"Mercuric transport protein, MerT / Periplasmic mercury(+2) binding protein, MerP"
+Protein Metabolism,Protein degradation,Protein degradation,Metallopeptidase
+Regulation and Cell signaling,Regulation and Cell signaling - no subcategory,Two-component regulatory system,Multi-sensor signal transduction histidine kinase
+Protein Metabolism,Protein degradation,Protein degradation,"Peptidase M14, carboxypeptidase A precursor"
+"Phages, Prophages, Transposable elements, Plasmids",Transposable elements,Integrase,Phage integrase
+DNA Metabolism,DNA Metabolism - no subcategory,DNA methylation,Putative DNA methylase
+RNA Metabolism,RNA processing and modification,none,Putative alkaline phosphatase synthesis transcriptional regulatory protein
+Protein Metabolism,Protein degradation,Aminopeptidases,Putative aminopeptidase
+Stress Response,Heat shock,none,Putative heat shock protein
+Membrane Transport,Membrane Transport - no subcategory,none,RND multidrug efflux transporter; Acriflavin resistance protein
+"Virulence, Disease and Defense",Resistance to antibiotics and toxic compounds,none,RND multidrug efflux transporter; Acriflavin resistance protein
+Regulation and Cell signaling,Regulation and Cell signaling - no subcategory,Two-component regulatory system,Response regulator receiver protein
+Membrane Transport,Membrane Transport - no subcategory,none,Sulfate transporter
+RNA Metabolism,RNA processing and modification,none,"Transcriptional regulator, Xre family"
+RNA Metabolism,RNA processing and modification,none,Transcriptional regulatory protein UhpA
+Membrane Transport,Membrane Transport - no subcategory,none,Transport protein
+Regulation and Cell signaling,Regulation and Cell signaling - no subcategory,Two-component regulatory system,Two-component response regulator CheY subfamily
+DNA Metabolism,DNA Metabolism - no subcategory,Restriction Enzyme,"Type I restriction enzyme, M subunit"
+RNA Metabolism,RNA processing and modification,Nuclease,mRNA 3-end processing exonuclease
+Protein Metabolism,Protein degradation,Protein degradation,peptidase M12A astacin
+Respiration,Respiration - no subcategory,Cytochrome,probable deca-heme c-type cytochrome
+Protein Metabolism,Protein biosynthesis,Ribosome LSU/SSU bacterial,ribosomal protein paralog
+Stress Response,Oxidative stress,Aerotolerance,BatE
+Cell Division and Cell Cycle,Cell Division and Cell Cycle - no subcategory,Cell division protein,Cell division protein FtsK
+Stress Response,Cold shock,none,"Cold-shock protein, DNA-binding"
+Stress Response,Stress Response - no subcategory,Phage shock,"Cold-shock protein, DNA-binding"
+Membrane Transport,ABC-transporters,none,"CzcABC family efflux RND transporter, outer membrane protein"
+DNA Metabolism,DNA Metabolism - no subcategory,Nuclease,"Excinuclease ABC, C subunit N-terminal region"
+RNA Metabolism,RNA processing and modification,Nuclease,"Excinuclease ABC, C subunit N-terminal region"
+RNA Metabolism,RNA processing and modification,Nuclease,Extracellular ribonuclease precursor (EC 3.1.-.-)
+RNA Metabolism,RNA processing and modification,none,HTH_3 family transcriptional regulator protein
+Miscellaneous,Plant-Prokaryote DOE project,Iron-sulfur cluster assembly,Iron-sulfur cluster-binding protein
+Membrane Transport,Membrane Transport - no subcategory,none,"Metal transporter, ZIP family"
+Membrane Transport,Membrane Transport - no subcategory,none,O-antigen transporter
+"Virulence, Disease and Defense",Resistance to antibiotics and toxic compounds,none,"Polymyxin resistance protein ArnC, glycosyl transferase"
+Carbohydrates,Polysaccharides,Polysaccharide biosynthesis,Polysaccharide biosynthesis protein WlaX
+Membrane Transport,Protein transport,Protein transport,Preprotein translocase subunit YajC (TC 3.A.5.1.1)
+Respiration,Respiration - no subcategory,Cytochrome,Probable cytochrome-c peroxidase (EC 1.11.1.5)
+Regulation and Cell signaling,Regulation and Cell signaling - no subcategory,Two-component regulatory system,Putative signal transduction histidine kinase
+Regulation and Cell signaling,Regulation and Cell signaling - no subcategory,Two-component regulatory system,SIGNAL TRANSDUCTION HISTIDINE KINASE
+RNA Metabolism,RNA processing and modification,none,"Transcriptional regulator, LuxR family"
+RNA Metabolism,RNA processing and modification,none,"Transcriptional regulator, MerR family"
+Regulation and Cell signaling,Regulation and Cell signaling - no subcategory,Two-component regulatory system,Two-component system sensor histidine kinase/response
+RNA Metabolism,RNA processing and modification,none,"Two-component transcriptional regulator, LytTR family"
+DNA Metabolism,DNA Metabolism - no subcategory,Restriction Enzyme,Type II restriction enzyme HpaII (EC 3.1.21.4)
+DNA Metabolism,DNA Metabolism - no subcategory,Nuclease,Type II restriction enzyme PstI (Endonuclease PstI) (R.PstI)
+RNA Metabolism,RNA processing and modification,Nuclease,Type II restriction enzyme PstI (Endonuclease PstI) (R.PstI)
+DNA Metabolism,DNA Metabolism - no subcategory,Restriction Enzyme,Type II restriction enzyme PstI (Endonuclease PstI) (R.PstI)
+RNA Metabolism,RNA processing and modification,none,contains transcriptional regulator helix-turn- helix domain
+Protein Metabolism,Protein degradation,Dipeptidases,"peptidase M19, renal dipeptidase"
+Protein Metabolism,Protein degradation,Protein degradation,"peptidase M48, Ste24p"
+RNA Metabolism,RNA Metabolism - no subcategory,RNA helicase,possible ATP-dependent RNA helicase
+Regulation and Cell signaling,Regulation and Cell signaling - no subcategory,Two-component regulatory system,putative nitrate/nitrite DNA-binding response regulator
+Regulation and Cell signaling,Regulation and Cell signaling - no subcategory,Two-component regulatory system,response regulator
+RNA Metabolism,RNA processing and modification,none,tRNA-Pseudo-TTG
+RNA Metabolism,RNA processing and modification,none,transcriptional regulator (DegT/DnrJ/Eryc1 family)
+"Phages, Prophages, Transposable elements, Plasmids",Transposable elements,Transposase,"transposase, IS21 family protein"
+Regulation and Cell signaling,Regulation and Cell signaling - no subcategory,Two-component regulatory system,two-component response regulator
+Membrane Transport,Membrane Transport - no subcategory,none,1.2 Transport/binding proteins and lipoproteins
+Membrane Transport,ABC-transporters,none,"ABC-type branched-chain amino acid transport systems, periplasmic component"
+DNA Metabolism,DNA Metabolism - no subcategory,DNA helicase,"ATP-dependent DNA helicase UvrD/PcrA, clostridial paralog 2"
+Membrane Transport,Membrane Transport - no subcategory,none,ATPase component of general energizing module of ECF transporters
+Membrane Transport,Membrane Transport - no subcategory,none,Anaerobic C4-dicarboxylate transporter
+RNA Metabolism,RNA processing and modification,none,AraC-family transcriptional regulator
+Cell Division and Cell Cycle,Cell Division and Cell Cycle - no subcategory,Cell division protein,"Cell division transporter, ATP-binding protein FtsE (TC 3.A.5.1.1)"
+Membrane Transport,Membrane Transport - no subcategory,none,"Cell division transporter, ATP-binding protein FtsE (TC 3.A.5.1.1)"
+Membrane Transport,Membrane Transport - no subcategory,none,Curli production assembly/transport component CsgF
+Membrane Transport,Membrane Transport - no subcategory,none,Curli production assembly/transport component CsgG
+Protein Metabolism,Protein degradation,Protein degradation,Dipeptidyl-peptidase III (EC 3.4.14.4)
+DNA Metabolism,DNA Metabolism - no subcategory,Nuclease,FIG131328: Predicted ATP-dependent endonuclease of the OLD family
+RNA Metabolism,RNA processing and modification,Nuclease,FIG131328: Predicted ATP-dependent endonuclease of the OLD family
+"Virulence, Disease and Defense",Resistance to antibiotics and toxic compounds,none,Glyoxalase/bleomycin resistance protein/dioxygenase
+RNA Metabolism,RNA processing and modification,none,"GntR family transcriptional regulator Fjoh_4822 @ Transcriptional regulator, GntR family domain"
+Membrane Transport,Membrane Transport - no subcategory,none,Heavy metal transport/detoxification protein
+Protein Metabolism,Protein degradation,Protein degradation,Hydrogenase maturation protease
+Protein Metabolism,Protein degradation,Dipeptidases,Microsomal dipeptidase (EC 3.4.13.19)
+"Phages, Prophages, Transposable elements, Plasmids",Transposable elements,Transposon,"Mobilizable transposon, tnpC protein"
+"Virulence, Disease and Defense",Resistance to antibiotics and toxic compounds,none,Multidrug resistance protein B
+DNA Metabolism,DNA replication,none,Primosomal protein N&#39; (replication factor Y) - superfamily II helicase
+Protein Metabolism,Protein degradation,Protein degradation,Probable acylaminoacyl-peptidase (EC 3.4.19.1)
+Protein Metabolism,Protein degradation,Dipeptidases,Proline dipeptidase
+Protein Metabolism,Protein degradation,Protein degradation,Prolyl endopeptidase
+Respiration,Respiration - no subcategory,Cytochrome,Putative cytochrome P450 hydroxylase
+Membrane Transport,Membrane Transport - no subcategory,Siderophore,"Siderophore synthetase component, ligase"
+Membrane Transport,Membrane Transport - no subcategory,Ton and Tol transopt system,"TonB-dependent receptor, plug"
+RNA Metabolism,RNA processing and modification,none,"Transcription regulator of multidrug efflux pump operon, TetR (AcrR) family"
+RNA Metabolism,RNA processing and modification,none,"Transcriptional regulator, AcrR family / 3-oxoacyl-[acyl-carrier-protein] synthase, KASII (EC 2.3.1.179)"
+Regulation and Cell signaling,Regulation and Cell signaling - no subcategory,Two-component regulatory system,Two-component response regulator of nitrate reduction
+Membrane Transport,Protein secretion system,none,"Type I secretion system, outer membrane component LapE"
+Membrane Transport,Membrane Transport - no subcategory,none,Uncharacterized MFS-type transporter YycB
+Respiration,Respiration - no subcategory,Cytochrome,"Uptake [NiFe] hydrogenase, cytochrome b subunit HyaC"
+Membrane Transport,ABC-transporters,none,"Zinc ABC transporter, substrate-binding protein ZnuA"
+RNA Metabolism,Transcription,"Transcription initiation, bacterial sigma factors","anti-ECFsigma factor, ChrR"
+RNA Metabolism,Transcription,"Transcription initiation, bacterial sigma factors",anti-FecI sigma factor FecR
+Cell Wall and Capsule,Capsular and extracellular polysacchrides,Capsular Polysaccharides Biosynthesis and Assembly,"capsular polysaccharide biosynthesis protein, putative"
+Membrane Transport,Membrane Transport - no subcategory,none,"conserved hypothetical protein, putative transport protein"
+RNA Metabolism,RNA processing and modification,Nuclease,endoribonuclease L-PSP translation initiation inhibitor
+Regulation and Cell signaling,Regulation and Cell signaling - no subcategory,Two-component regulatory system,"putative two-component system sensor protein, without kinase domain"
+Regulation and Cell signaling,Regulation and Cell signaling - no subcategory,Two-component regulatory system,response regulator of Zn/Pb responsive two- component regulatory system
+Regulation and Cell signaling,Regulation and Cell signaling - no subcategory,Two-component regulatory system,sensory box sensor histidine kinase
+RNA Metabolism,RNA processing and modification,none,tRNA-Asp-ATC
+RNA Metabolism,RNA processing and modification,none,tRNA-Pseudo-???
+RNA Metabolism,RNA processing and modification,none,tRNA-Pseudo-CTG
+RNA Metabolism,RNA processing and modification,none,tRNA-Pseudo-TTC
+RNA Metabolism,RNA processing and modification,none,tRNA-Undet-???
+DNA Metabolism,DNA Metabolism - no subcategory,DNA helicase,ATP-dependent DNA helicase
+DNA Metabolism,DNA Metabolism - no subcategory,Nuclease,Anticodon nuclease
+RNA Metabolism,RNA processing and modification,Nuclease,Anticodon nuclease
+"Phages, Prophages, Transposable elements, Plasmids",Transposable elements,Transposon,Conjugative transposon protein TraG
+"Phages, Prophages, Transposable elements, Plasmids",Transposable elements,Transposon,Conjugative transposon protein TraI
+"Phages, Prophages, Transposable elements, Plasmids",Transposable elements,Transposon,Conjugative transposon protein TraJ
+"Phages, Prophages, Transposable elements, Plasmids",Transposable elements,Transposon,Conjugative transposon protein TraK
+"Phages, Prophages, Transposable elements, Plasmids",Transposable elements,Transposon,Conjugative transposon protein TraM
+"Phages, Prophages, Transposable elements, Plasmids",Transposable elements,Transposon,Conjugative transposon protein TraN
+"Phages, Prophages, Transposable elements, Plasmids",Transposable elements,Transposon,Conjugative transposon protein TraO
+"Phages, Prophages, Transposable elements, Plasmids",Transposable elements,Transposon,Conjugative transposon protein TraQ
+DNA Metabolism,DNA Metabolism - no subcategory,Nuclease,"Excinuclease ABC, C subunit, N-terminal"
+RNA Metabolism,RNA processing and modification,Nuclease,"Excinuclease ABC, C subunit, N-terminal"
+"Phages, Prophages, Transposable elements, Plasmids",Transposable elements,Integrase,"Integrase, catalytic domain"
+"Phages, Prophages, Transposable elements, Plasmids",Transposable elements,Integrase,"Integrase, catalytic region"
+Membrane Transport,ABC-transporters,none,Phosphonate ABC transporter permease protein phnE1 (TC 3.A.1.9.1)
+Protein Metabolism,Protein degradation,Protein degradation,Putative serine protease
+Membrane Transport,Uni- Sym- and Antiporters,none,Sodium/bile acid symporter family
+RNA Metabolism,RNA processing and modification,none,"Transcriptional regulator, MarR family / Acetyltransferase (GNAT)"
+RNA Metabolism,RNA processing and modification,none,"Type III secretion thermoregulatory protein (LcrF,VirF,transcription regulation of virulence plasmid)"
+Membrane Transport,Protein secretion system,none,"Type III secretion thermoregulatory protein (LcrF,VirF,transcription regulation of virulence plasmid)"
+DNA Metabolism,DNA Metabolism - no subcategory,Type I Restriction-Modification,Uncharacterized protein clustered with Type I restriction-modification system
+"Phages, Prophages, Transposable elements, Plasmids",Transposable elements,Transposon,"mobilizable transposon, tnpA protein"
+Protein Metabolism,Protein degradation,Protein degradation,peptidase S41
+Protein Metabolism,Protein degradation,Protein degradation,"peptidase S9, prolyl oligopeptidase active site domain protein"
+Membrane Transport,Membrane Transport - no subcategory,none,putative transport protein
+Protein Metabolism,Protein degradation,Protein degradation,"signal peptide peptidase SppA, 67K type( EC:3.4.- )"
+"Phages, Prophages, Transposable elements, Plasmids",Transposable elements,Transposase,transposase for IS1663
+DNA Metabolism,DNA Metabolism - no subcategory,DNA methylation,Adenine-specific DNA methylase-like
+RNA Metabolism,RNA processing and modification,none,AraC family transcriptional regulator
+DNA Metabolism,CRISPs,CRISPRs,CRISPR region with repeat catatcgtgttttctaatctttaatcaaaccacaac
+DNA Metabolism,CRISPs,CRISPRs,CRISPR region with repeat gttgtaactgcccttattttgaagggtaaa
+DNA Metabolism,CRISPs,CRISPRs,CRISPR region with repeat gttgtaactgcccttattttgaagggtaaacacaac
+DNA Metabolism,CRISPs,CRISPRs,CRISPR region with repeat gtttaaaaccactttaaaatttctactattgtagat
+DNA Metabolism,CRISPs,CRISPRs,CRISPR repeat with sequence catatcgtgttttctaatctttaatcaaaccacaac
+DNA Metabolism,CRISPs,CRISPRs,CRISPR repeat with sequence catatcgtgttttctaatctttaatcaaataaattc
+DNA Metabolism,CRISPs,CRISPRs,CRISPR repeat with sequence catatcgtgttttctaatttttaatcaaaccacaac
+DNA Metabolism,CRISPs,CRISPRs,CRISPR repeat with sequence ggggctaatgcccttattttgaagggtaaa
+DNA Metabolism,CRISPs,CRISPRs,CRISPR repeat with sequence ggggctaatgcccttattttgaagggtaaacacaac
+DNA Metabolism,CRISPs,CRISPRs,CRISPR repeat with sequence gttgtaactgcccttattttgaagggtaaa
+DNA Metabolism,CRISPs,CRISPRs,CRISPR repeat with sequence gttgtaactgcccttattttgaagggtaaaaacaac
+DNA Metabolism,CRISPs,CRISPRs,CRISPR repeat with sequence gttgtaactgcccttattttgaagggtaaacacaac
+DNA Metabolism,CRISPs,CRISPRs,CRISPR repeat with sequence gttgtaactgcccttattttgaaggttaaacacaac
+DNA Metabolism,CRISPs,CRISPRs,CRISPR repeat with sequence gttgtaactgcctttattttgaaaggtaaacacaac
+DNA Metabolism,CRISPs,CRISPRs,CRISPR repeat with sequence gttgtaactgtccttattttgaagggtaaacacaac
+DNA Metabolism,CRISPs,CRISPRs,CRISPR repeat with sequence gtttaaaaccactttaaaatttctactattgtagaa
+DNA Metabolism,CRISPs,CRISPRs,CRISPR repeat with sequence gtttaaaaccactttaaaatttctactattgtagat
+DNA Metabolism,CRISPs,CRISPRs,CRISPR repeat with sequence gtttaaaaccactttaaaatttctacttttgtagat
+DNA Metabolism,CRISPs,CRISPR-associated proteins,CRISPR-associated RAMP FIG00530360
+DNA Metabolism,CRISPs,CRISPR-associated proteins,CRISPR-associated protein Cas2
+Membrane Transport,Uni- Sym- and Antiporters,none,D-xylose proton-symporter XylE
+Regulation and Cell signaling,Regulation and Cell signaling - no subcategory,Two-component regulatory system,DNA-binding response regulator KdpE
+DNA Metabolism,DNA Metabolism - no subcategory,DNA helicase,"DNA/RNA helicases, SNF2 family"
+RNA Metabolism,RNA Metabolism - no subcategory,RNA helicase,"DNA/RNA helicases, SNF2 family"
+Carbohydrates,Polysaccharides,Polysaccharide biosynthesis,Exopolysaccharide biosynthesis transcriptional activator EpsA
+DNA Metabolism,DNA Metabolism - no subcategory,Type II Restriction-Modification,"FIG045374: Type II restriction enzyme, methylase subunit YeeA"
+DNA Metabolism,DNA Metabolism - no subcategory,Restriction Enzyme,"FIG045374: Type II restriction enzyme, methylase subunit YeeA"
+DNA Metabolism,DNA Metabolism - no subcategory,Nuclease,HNH endonuclease
+RNA Metabolism,RNA processing and modification,Nuclease,HNH endonuclease
+Membrane Transport,Membrane Transport - no subcategory,none,Long-chain fatty acid transport protein
+DNA Metabolism,DNA Metabolism - no subcategory,DNA methylation,Modification methylase
+DNA Metabolism,DNA Metabolism - no subcategory,DNA methylation,Modification methylase EcoRI (EC 2.1.1.72)
+DNA Metabolism,DNA Metabolism - no subcategory,DNA methylation,Modification methylase Sau3AI (EC 2.1.1.37)
+"Virulence, Disease and Defense",Resistance to antibiotics and toxic compounds,none,Multidrug resistance protein norM
+Membrane Transport,ABC-transporters,none,"Phosphate ABC transporter, ATP-binding protein PstB (TC 3.A.1.7.1)"
+Membrane Transport,ABC-transporters,none,"Phosphate ABC transporter, permease protein PstA (TC 3.A.1.7.1)"
+Membrane Transport,ABC-transporters,none,"Phosphate ABC transporter, permease protein PstC (TC 3.A.1.7.1)"
+Membrane Transport,ABC-transporters,none,"Phosphate ABC transporter, substrate-binding protein PstS (TC 3.A.1.7.1)"
+Membrane Transport,Membrane Transport - no subcategory,none,"Predicted transcriptional regulator of sulfate transport, Rrf2 family"
+RNA Metabolism,RNA processing and modification,none,"Predicted transcriptional regulator of sulfate transport, Rrf2 family"
+RNA Metabolism,RNA processing and modification,none,"Probable transcription regulator, MerR family"
+DNA Metabolism,DNA Metabolism - no subcategory,Nuclease,Putative deoxyribonuclease YjjV
+DNA Metabolism,DNA Metabolism - no subcategory,Nuclease,Restriction endonuclease R.XbaI
+RNA Metabolism,RNA processing and modification,Nuclease,Restriction endonuclease R.XbaI
+DNA Metabolism,DNA Metabolism - no subcategory,Restriction Enzyme,Restriction endonuclease R.XbaI
+DNA Metabolism,DNA Metabolism - no subcategory,DNA methylation,"Type II restriction-modification enzyme, methylase family protein (STM4495 in Salmonella)"
+DNA Metabolism,DNA Metabolism - no subcategory,Type II Restriction-Modification,"Type II restriction-modification enzyme, methylase family protein (STM4495 in Salmonella)"
+DNA Metabolism,DNA Metabolism - no subcategory,Type III Restriction-Modification,Type III restriction-modification enzyme helicase subunit
+Membrane Transport,Membrane Transport - no subcategory,none,"Uncharacterized transporter KPN_00538, MFS-type"
+Secondary Metabolism,"Bacterial cytostatics, differentiation factors and antibiotics",Antibiotics biosynthesis,antibiotic biosynthesis monooxygenase
+Regulation and Cell signaling,Regulation and Cell signaling - no subcategory,Two-component regulatory system,histidine kinase family
+Cell Wall and Capsule,Gram-Negative cell wall components,Lipopolysaccharides,lipopolysaccharide biosynthesis protein
+Carbohydrates,Polysaccharides,Polysaccharide biosynthesis,lipopolysaccharide biosynthesis protein
+Membrane Transport,ABC-transporters,none,"multiple sugar-binding ABC transporter, ATP- binding protein"
+Protein Metabolism,Protein degradation,Protein degradation,putative ATP-dependent protease
+Membrane Transport,Membrane Transport - no subcategory,none,putative MFS transporter
+Regulation and Cell signaling,Regulation and Cell signaling - no subcategory,Two-component regulatory system,putative hybrid two-component system sensor histidine kinase and response regulator receiver
+RNA Metabolism,RNA processing and modification,none,putative transcriptional regulator
+DNA Metabolism,DNA Metabolism - no subcategory,Restriction Enzyme,restriction enzyme BcgI alpha chain-like protein( EC:2.1.1.72 )
+"Virulence, Disease and Defense",Resistance to antibiotics and toxic compounds,none,tellurium resistance protein
+RNA Metabolism,RNA processing and modification,none,"transcriptional regulator, AraC family"
+"Phages, Prophages, Transposable elements, Plasmids",Transposable elements,Transposase,transposase IS1182 family
+"Phages, Prophages, Transposable elements, Plasmids",Transposable elements,Transposase,transposase IS1595 family
+"Phages, Prophages, Transposable elements, Plasmids",Transposable elements,Transposase,transposase of IS653-like element
+DNA Metabolism,DNA Metabolism - no subcategory,Nuclease,type II restriction endonuclease
+RNA Metabolism,RNA processing and modification,Nuclease,type II restriction endonuclease
+DNA Metabolism,DNA Metabolism - no subcategory,Restriction Enzyme,type II restriction endonuclease
+DNA Metabolism,DNA Metabolism - no subcategory,Nuclease,type II site-specific deoxyribonuclease (Sau96I- li( EC:3.1.21.4 )
+DNA Metabolism,DNA repair,none,ATPase involved in DNA repair
+"Virulence, Disease and Defense","Virulence, Disease and Defense - no subcategory",Phage defence,Abortive infection bacteriophage resistance protein
+DNA Metabolism,CRISPs,CRISPRs,CRISPR region with repeat gttggtaattataagctaaaatacaattttgaaagcaattcacaac
+DNA Metabolism,CRISPs,CRISPRs,CRISPR repeat with sequence gttggtaattataagctaaaataacccgttgggtgtaattaaatta
+DNA Metabolism,CRISPs,CRISPRs,CRISPR repeat with sequence gttggtaattataagctaaaatacaattttgaaagcaattcacaac
+DNA Metabolism,CRISPs,CRISPRs,CRISPR repeat with sequence gttggtaattataagctgaaatacaattttgaaagcaattcacaac
+Cell Wall and Capsule,Capsular and extracellular polysacchrides,Capsular Polysaccharides Biosynthesis and Assembly,Capsular polysaccharide biosynthesis protein WbpP
+Cell Wall and Capsule,Capsular and extracellular polysacchrides,Capsular Polysaccharides Biosynthesis and Assembly,Capsular polysaccharide synthesis enzyme Cap5L
+Respiration,Respiration - no subcategory,Cytochrome,Cytochrome c oxidase (cbb3-type) subunit CcoN (EC 1.9.3.1)
+Respiration,Respiration - no subcategory,Cytochrome,Cytochrome c oxidase (cbb3-type) subunit CcoO (EC 1.9.3.1)
+DNA Metabolism,DNA repair,none,DNA double-strand break repair Rad50 ATPase
+DNA Metabolism,DNA repair,none,DNA double-strand break repair protein Mre11
+DNA Metabolism,DNA repair,none,DNA repair protein
+"Phages, Prophages, Transposable elements, Plasmids",Transposable elements,Transposase,"ISPg3, transposase"
+Respiration,Respiration - no subcategory,Cytochrome,Probable thiol oxidoreductase with 2 cytochrome c heme-binding sites
+Protein Metabolism,Protein degradation,Protein degradation,Protease II
+Protein Metabolism,Protein degradation,Protein degradation,Protease IV
+RNA Metabolism,RNA processing and modification,RNA methylation,Ribosomal RNA adenine dimethylase domain protein
+Membrane Transport,Membrane Transport - no subcategory,Siderophore,Siderophore biosynthesis protein
+DNA Metabolism,DNA Metabolism - no subcategory,Type II Restriction-Modification,"Type II restriction enzyme, methylase subunit"
+DNA Metabolism,DNA Metabolism - no subcategory,Restriction Enzyme,"Type II restriction enzyme, methylase subunit"
+Membrane Transport,Membrane Transport - no subcategory,none,putative autotransporter protein
+Cell Division and Cell Cycle,Cell Division and Cell Cycle - no subcategory,Cell division protein,putative cell division protein
+Membrane Transport,ABC-transporters,none,"ABC transporter, substrate-binding protein (cluster 8, B12/iron complex)"
+DNA Metabolism,DNA Metabolism - no subcategory,Nuclease,ATP-dependent endonuclease family protein
+RNA Metabolism,RNA processing and modification,Nuclease,ATP-dependent endonuclease family protein
+DNA Metabolism,DNA Metabolism - no subcategory,DNA helicase,Bipolar DNA helicase
+"Phages, Prophages, Transposable elements, Plasmids",Transposable elements,Transposon,Conjugative transposon protein TraB
+DNA Metabolism,DNA Metabolism - no subcategory,DNA methylation,DNA adenine methylase (EC 2.1.1.72)
+Membrane Transport,ABC-transporters,none,"Dipeptide ABC transporter, ATP-binding protein DppD (TC 3.A.1.5.2)"
+Membrane Transport,ABC-transporters,none,"Dipeptide ABC transporter, permease protein DppB (TC 3.A.1.5.2)"
+Membrane Transport,ABC-transporters,none,"Dipeptide ABC transporter, permease protein DppC (TC 3.A.1.5.2)"
+Membrane Transport,ABC-transporters,none,"Dipeptide ABC transporter, substrate-binding protein DppA (TC 3.A.1.5.2)"
+Regulation and Cell signaling,Regulation and Cell signaling - no subcategory,Two-component regulatory system,Histidine kinase family
+Cell Wall and Capsule,Gram-Negative cell wall components,Lipopolysaccharides,Lipopolysaccharide biosynthesis protein RffA
+Carbohydrates,Polysaccharides,Polysaccharide biosynthesis,Lipopolysaccharide biosynthesis protein RffA
+Membrane Transport,Membrane Transport - no subcategory,none,Methionine transporter MetT
+Protein Metabolism,Protein degradation,Protein degradation,Periplasmic protease
+DNA Metabolism,DNA replication,none,Phage DNA replication protein O
+Protein Metabolism,Protein degradation,Protein degradation,Phage head maturation protease
+"Virulence, Disease and Defense",Resistance to antibiotics and toxic compounds,none,"Polymyxin resistance protein ArnC, glycosyl transferase (EC 2.4.-.-)"
+"Phages, Prophages, Transposable elements, Plasmids",Transposable elements,Transposon,Putative conjugative transposon mobilization protein BF0132
+Regulation and Cell signaling,Regulation and Cell signaling - no subcategory,Two-component regulatory system,"RteB, two-component system response regulator"
+Regulation and Cell signaling,Regulation and Cell signaling - no subcategory,Two-component regulatory system,Two-component response regulator yhcZ
+Regulation and Cell signaling,Regulation and Cell signaling - no subcategory,Two-component regulatory system,histidine kinase
+Regulation and Cell signaling,Regulation and Cell signaling - no subcategory,Two-component regulatory system,histidine kinase sensor protein
+"Phages, Prophages, Transposable elements, Plasmids",Transposable elements,Transposon,"hypothetical protein clusted with conjugative transposons, BF0131"
+Regulation and Cell signaling,Regulation and Cell signaling - no subcategory,Two-component regulatory system,integral membrane sensor hybrid histidine kinase
+DNA Metabolism,DNA Metabolism - no subcategory,DNA methylation,"modification methylase, putative"
+Membrane Transport,ABC-transporters,none,"multiple sugar-binding ABC transporter, ATP-binding protein"
+Protein Metabolism,Protein degradation,Protein degradation,peptidase M56 BlaR1
+Regulation and Cell signaling,Regulation and Cell signaling - no subcategory,Two-component regulatory system,response regulator receiver
+RNA Metabolism,RNA processing and modification,none,tRNA-Pseudo-CGA
+RNA Metabolism,RNA processing and modification,none,tRNA-Pseudo-GAA
+RNA Metabolism,RNA processing and modification,none,"transcriptional regulator, AraC family protein"
+Membrane Transport,Membrane Transport - no subcategory,Siderophore,"2,3-diaminopropionate for siderophore biosynthesis protein SbnB"
+Membrane Transport,Membrane Transport - no subcategory,Siderophore,"ABC-type siderophore export system, fused ATPase and permease components"
+DNA Metabolism,DNA Metabolism - no subcategory,DNA helicase,DNA or RNA helicase of superfamily II
+RNA Metabolism,RNA Metabolism - no subcategory,RNA helicase,DNA or RNA helicase of superfamily II
+Regulation and Cell signaling,Regulation and Cell signaling - no subcategory,Two-component regulatory system,LytTr DNA-binding response regulator
+Membrane Transport,Membrane Transport - no subcategory,none,"N-acetyl glucosamine transporter, NagP"
+RNA Metabolism,RNA processing and modification,none,"Transcriptional regulator, GntR family"
+DNA Metabolism,DNA Metabolism - no subcategory,Restriction Enzyme,"Type III restriction enzyme, res subunit"
+Protein Metabolism,Protein degradation,Protein degradation,Zinc carboxypeptidase domain protein
+Respiration,Respiration - no subcategory,Cytochrome,"cytochrome p460, putative"
+Protein Metabolism,Protein degradation,Protein degradation,prolyl oligopeptidase family protein
+Regulation and Cell signaling,Regulation and Cell signaling - no subcategory,Two-component regulatory system,response regulator receiver domain protein (CheY-like)
+RNA Metabolism,RNA processing and modification,none,tRNA-Pseudo-TCT
+Regulation and Cell signaling,Regulation and Cell signaling - no subcategory,Two-component regulatory system,two-component system response regulator
+Membrane Transport,ABC-transporters,none,"Cyclic-nucleotide-regulated bacteriocin/lantibiotic efflux ABC transporter, permease/ATP-binding protein"
+"Phages, Prophages, Transposable elements, Plasmids",Transposable elements,Transposase,"ISSpo3, transposase"
+DNA Metabolism,DNA Metabolism - no subcategory,Nuclease,Putative endonuclease
+RNA Metabolism,RNA processing and modification,Nuclease,Putative endonuclease
+RNA Metabolism,RNA processing and modification,none,"Transcriptional Regulator, XRE family"
+Regulation and Cell signaling,Regulation and Cell signaling - no subcategory,Two-component regulatory system,Two-component hybrid sensor and regulator
+DNA Metabolism,DNA Metabolism - no subcategory,Nuclease,extracellular nuclease
+RNA Metabolism,RNA processing and modification,Nuclease,extracellular nuclease
+Regulation and Cell signaling,Regulation and Cell signaling - no subcategory,Two-component regulatory system,histidine kinase internal region
+Respiration,Respiration - no subcategory,Cytochrome,hypothetical protein in Cytochrome oxidase biogenesis cluster
+DNA Metabolism,DNA Metabolism - no subcategory,Nuclease,Anticodon nuclease COG4694
+RNA Metabolism,RNA processing and modification,Nuclease,Anticodon nuclease COG4694
+Regulation and Cell signaling,Regulation and Cell signaling - no subcategory,Two-component regulatory system,BarA sensory histidine kinase (= VarS = GacS)
+Respiration,Respiration - no subcategory,Cytochrome,Cytochrome B561
+DNA Metabolism,DNA Metabolism - no subcategory,DNA helicase,DNA/RNA helicase of DEAD/DEAH box family
+RNA Metabolism,RNA Metabolism - no subcategory,RNA helicase,DNA/RNA helicase of DEAD/DEAH box family
+RNA Metabolism,Transcription,"Transcription initiation, bacterial sigma factors",FIG017431: Sigma factor-like phosphatase with CBS pair domains
+Membrane Transport,Uni- Sym- and Antiporters,none,FIG152265: Sodium:solute symporter associated protein
+Membrane Transport,ABC-transporters,none,"Glycine betaine ABC transport system, glycine betaine-binding protein OpuAC"
+"Virulence, Disease and Defense",Resistance to antibiotics and toxic compounds,none,"MFS family multidrug efflux protein, similarity to bicyclomycin resistance protein Bcr"
+Membrane Transport,Uni- Sym- and Antiporters,none,Na+/H+ antiporter NhaC
+Membrane Transport,Uni- Sym- and Antiporters,none,Na+/solute symporter
+RNA Metabolism,RNA processing and modification,none,Negative transcriptional regulator
+Membrane Transport,Uni- Sym- and Antiporters,none,Proton/glutamate symporter
+"Virulence, Disease and Defense",Resistance to antibiotics and toxic compounds,none,Tetracycline resistance element mobilization regulatory protein rteC
+Membrane Transport,Membrane Transport - no subcategory,Ton and Tol transopt system,TonB-dependent receptor domain protein
+Membrane Transport,Membrane Transport - no subcategory,none,formate/nitrite transporter
+"Phages, Prophages, Transposable elements, Plasmids",Transposable elements,Integrase,"integrase, catalytic region"
+DNA Metabolism,DNA Metabolism - no subcategory,Nuclease,predicted endonuclease containing a URI domain
+RNA Metabolism,RNA processing and modification,Nuclease,predicted endonuclease containing a URI domain
+RNA Metabolism,RNA processing and modification,none,probable transcription regulator protein
+Stress Response,Heat shock,none,putative heat-shock related protein
+Regulation and Cell signaling,Regulation and Cell signaling - no subcategory,Two-component regulatory system,sensory box histidine kinase/response regulator
+Membrane Transport,Membrane Transport - no subcategory,none,xylose transporter
+DNA Metabolism,DNA Metabolism - no subcategory,DNA helicase,Bipolar DNA helicase HerA
+Protein Metabolism,Protein degradation,Aminopeptidases,D-aminopeptidase (EC 3.4.11.19)
+DNA Metabolism,DNA replication,DNA polymerase,DNA polymerase III epsilon subunit
+Membrane Transport,ABC-transporters,none,"Putative phosphate ABC transporter, phosphate- binding component"
+Regulation and Cell signaling,Regulation and Cell signaling - no subcategory,Two-component regulatory system,Two-component response regulator SA14-24
+DNA Metabolism,DNA Metabolism - no subcategory,Restriction Enzyme,Type II restriction enzyme MjaIII (EC 3.1.21.4)
+"Phages, Prophages, Transposable elements, Plasmids",Transposable elements,Integrase,integrase family protein
+Carbohydrates,Polysaccharides,Polysaccharide biosynthesis,putative polysaccharide biosynthesis protein
+Membrane Transport,Membrane Transport - no subcategory,none,Anaerobic C4-dicarboxylate transporter DcuB
+Membrane Transport,Uni- Sym- and Antiporters,none,Major facilitator:Oxalate:Formate Antiporter
+"Virulence, Disease and Defense",Resistance to antibiotics and toxic compounds,none,Nisin-resistance protein
+Protein Metabolism,Protein degradation,Protein degradation,"Peptidase M20D, amidohydrolase"
+Membrane Transport,Membrane Transport - no subcategory,none,Predicted mannuronate transporter
+Protein Metabolism,Protein biosynthesis,Ribosome LSU/SSU bacterial,S23 ribosomal protein
+Membrane Transport,Uni- Sym- and Antiporters,none,Succinate-acetate/proton symporter SatP
+RNA Metabolism,RNA processing and modification,none,"Transcriptional regulator, DeoR family"
+Membrane Transport,Membrane Transport - no subcategory,none,Uncharacterized MFS-type transporter YtbD
+DNA Metabolism,DNA Metabolism - no subcategory,Nuclease,endonuclease/exonuclease/phosphatase family protein
+RNA Metabolism,RNA processing and modification,Nuclease,endonuclease/exonuclease/phosphatase family protein
+Regulation and Cell signaling,Regulation and Cell signaling - no subcategory,Two-component regulatory system,putative transmembrane sensor histidine kinase transcription regulator protein
+RNA Metabolism,RNA processing and modification,none,putative transmembrane sensor histidine kinase transcription regulator protein
+Regulation and Cell signaling,Regulation and Cell signaling - no subcategory,Two-component regulatory system,putative two-component system sensor but no kinase domain
+Regulation and Cell signaling,Regulation and Cell signaling - no subcategory,Two-component regulatory system,"putative two-component system sensor histidine kinase, putative heat shock protein"
+Stress Response,Heat shock,none,"putative two-component system sensor histidine kinase, putative heat shock protein"
+Regulation and Cell signaling,Regulation and Cell signaling - no subcategory,Two-component regulatory system,"signal transduction histidine kinase, LytS"
+RNA Metabolism,RNA processing and modification,none,transcriptional regulator araC family protein
+RNA Metabolism,RNA processing and modification,none,"transcriptional regulator, LysR family"
+Membrane Transport,Membrane Transport - no subcategory,none,Cation transport ATPase (EC 3.6.1.-)
+"Phages, Prophages, Transposable elements, Plasmids",Transposable elements,Transposon,"IS, phage, Tn; Transposon-related functions"
+"Phages, Prophages, Transposable elements, Plasmids",Transposable elements,Transposase,"IS3 family element, transposase orfB"
+"Phages, Prophages, Transposable elements, Plasmids",Transposable elements,Integrase,Integrase/recombinase
+"Phages, Prophages, Transposable elements, Plasmids",Transposable elements,Integrase,Integrase/recombinase XerD
+Cell Wall and Capsule,Gram-Negative cell wall components,Lipopolysaccharides,Lipopolysaccharide synthesis protein WavE
+Carbohydrates,Polysaccharides,Polysaccharide biosynthesis,Lipopolysaccharide synthesis protein WavE
+Respiration,Respiration - no subcategory,Cytochrome,NiFe-hydrogenase I cytochrome b subunit
+Cell Wall and Capsule,Gram-Negative cell wall components,Lipopolysaccharides,"Nucleoside-diphosphate-sugar pyrophosphorylase involved in lipopolysaccharide biosynthesis/translation initiation factor 2B, gamma/epsilon subunits (eIF-2Bgamma/eIF-2Bepsilon)"
+Carbohydrates,Polysaccharides,Polysaccharide biosynthesis,"Nucleoside-diphosphate-sugar pyrophosphorylase involved in lipopolysaccharide biosynthesis/translation initiation factor 2B, gamma/epsilon subunits (eIF-2Bgamma/eIF-2Bepsilon)"
+Carbohydrates,Polysaccharides,Polysaccharide biosynthesis,Polysaccharide intercellular adhesin (PIA) biosynthesis protein IcaC
+Protein Metabolism,Protein degradation,Protein degradation,prolyl endopeptidase
+Membrane Transport,Uni- Sym- and Antiporters,none,Ca(2+)/H(+) antiporter
+Protein Metabolism,Protein degradation,Protein degradation,Collagenase and related proteases
+Protein Metabolism,Protein degradation,Protein degradation,Dipeptidyl anminopeptidase
+RNA Metabolism,RNA processing and modification,none,"FIG004131: Transcriptional regulator, ArsR family"
+DNA Metabolism,DNA Metabolism - no subcategory,DNA helicase,"FIG006126: DNA helicase, restriction/modification system component YeeB"
+"Virulence, Disease and Defense",Resistance to antibiotics and toxic compounds,none,Multiple antibiotic resistance protein marC
+RNA Metabolism,RNA Metabolism - no subcategory,RNA helicase,Protein export cytoplasm protein SecA ATPase RNA helicase (TC 3.A.5.1.1)
+Protein Metabolism,Protein degradation,Protein degradation,Putative stomatin/prohibitin-family membrane protease subunit aq_911
+Regulation and Cell signaling,Regulation and Cell signaling - no subcategory,Two-component regulatory system,Sensor histidine kinase
+Regulation and Cell signaling,Regulation and Cell signaling - no subcategory,Two-component regulatory system,"Signal Transduction Histidine Kinase (STHK) , LytS"
+Membrane Transport,Membrane Transport - no subcategory,none,Sodium-dependent anion transporter family
+Carbohydrates,Polysaccharides,Polysaccharide biosynthesis,"Surface polysaccharide biosynthesis protein, possible cytidylyltransferase"
+"Phages, Prophages, Transposable elements, Plasmids",Transposable elements,Integrase,Tn5520-like integrase
+Protein Metabolism,Protein degradation,Protein degradation,secreted peptidase
+Membrane Transport,ABC-transporters,none,"Bacterial luciferase family protein YtmO, in cluster with L-cystine ABC transporter"
+RNA Metabolism,RNA processing and modification,Nuclease,Endoribonuclease L-PSP
+Membrane Transport,Membrane Transport - no subcategory,none,"Heme transporter IsdDEF, lipoprotein IsdE"
+Cell Wall and Capsule,Gram-Negative cell wall components,Lipopolysaccharides,Lipopolysaccharide biosynthesis protein WzxC
+Carbohydrates,Polysaccharides,Polysaccharide biosynthesis,Lipopolysaccharide biosynthesis protein WzxC
+Protein Metabolism,Protein degradation,Protein degradation,Proline iminopeptidase
+"Virulence, Disease and Defense",Resistance to antibiotics and toxic compounds,none,Tartrate-resistant acid phosphatase type 5 precursor (EC 3.1.3.2)
+"Virulence, Disease and Defense",Resistance to antibiotics and toxic compounds,none,"Tetracycline resistance, tetracycline-inactivating enzyme => Tet(X)"
+DNA Metabolism,DNA Metabolism - no subcategory,Nuclease,endonuclease/exonuclease/phosphatase family precursor (38.1 kD) (5F605)
+RNA Metabolism,RNA processing and modification,Nuclease,endonuclease/exonuclease/phosphatase family precursor (38.1 kD) (5F605)
+Respiration,Respiration - no subcategory,Cytochrome,probable cytochrome-c peroxidase
+RNA Metabolism,RNA processing and modification,none,tRNA-Pseudo-TTT
+Membrane Transport,ABC-transporters,none,"ABC-type antimicrobial peptide transport system, permease component BT1215"
+Stress Response,Oxidative stress,Aerotolerance,BatD
+Membrane Transport,Membrane Transport - no subcategory,none,Biopolymer transport exbD protein.
+Respiration,Respiration - no subcategory,Cytochrome,Cytochrome b561
+Membrane Transport,Uni- Sym- and Antiporters,none,"Inner membrane protein YrbG, predicted calcium/sodium:proton antiporter"
+Membrane Transport,Uni- Sym- and Antiporters,none,Na+/H+ antiporter NhaD type
+DNA Metabolism,DNA Metabolism - no subcategory,DNA methylation,Probable DNA methylase
+Respiration,Respiration - no subcategory,Cytochrome,Probable cytochrome-c peroxidase
+Membrane Transport,Membrane Transport - no subcategory,none,Putative transport
+Regulation and Cell signaling,Regulation and Cell signaling - no subcategory,Two-component regulatory system,Putative two-component sensor
+Protein Metabolism,Protein biosynthesis,Ribosome LSU/SSU bacterial,Ribosomal protein S6--L-glutamate ligase
+Membrane Transport,Membrane Transport - no subcategory,none,"Sodium-dependent transporter, SNF family"
+Regulation and Cell signaling,Regulation and Cell signaling - no subcategory,Two-component regulatory system,Two-component system histidine kinase BT1216
+DNA Metabolism,DNA Metabolism - no subcategory,Restriction Enzyme,"Type III restriction enzyme, res subunit:DEAD/DEAH box helicase, N-terminal"
+DNA Metabolism,DNA Metabolism - no subcategory,Nuclease,endo/excinuclease amino terminal domain protein
+RNA Metabolism,RNA processing and modification,Nuclease,endo/excinuclease amino terminal domain protein
+Regulation and Cell signaling,Regulation and Cell signaling - no subcategory,Two-component regulatory system,histidine kinase response regulator hybrid protein
+Regulation and Cell signaling,Regulation and Cell signaling - no subcategory,Two-component regulatory system,putative sensor histidine kinase
+DNA Metabolism,DNA Metabolism - no subcategory,Nuclease,putative type II restriction endonuclease
+RNA Metabolism,RNA processing and modification,Nuclease,putative type II restriction endonuclease
+DNA Metabolism,DNA Metabolism - no subcategory,Restriction Enzyme,putative type II restriction endonuclease
+RNA Metabolism,RNA processing and modification,none,sigma-54-dependent transcriptional regulator
+Protein Metabolism,Protein degradation,Aminopeptidases,x-prolyl-dipeptidyl aminopeptidase( EC:3.4.14.11 )
+Membrane Transport,ABC-transporters,none,"ABC transporter, ATP-binding protein (cluster 2, ribose/xylose/arabinose/galactose) / ABC transporter, ATP-binding protein (cluster 2, ribose/xylose/arabinose/galactose)"
+Membrane Transport,ABC-transporters,none,"ABC transporter, permease protein (cluster 2, ribose/xylose/arabinose/galactose)"
+Membrane Transport,ABC-transporters,none,"ABC transporter, substrate-binding protein (cluster 2, ribose/xylose/arabinose/galactose)"
+DNA Metabolism,DNA Metabolism - no subcategory,DNA methylation,C-5 cytosine-specific DNA methylase
+"Virulence, Disease and Defense",Resistance to antibiotics and toxic compounds,none,Flavin-dependent monooxygenase ArsO associated with arsenic resistance
+Membrane Transport,Membrane Transport - no subcategory,none,Glycine betaine/L-proline transport substrate-binding protein ProX (TC 3.A.1.12.1)
+RNA Metabolism,RNA processing and modification,none,LacI family transcriptional regulator
+"Phages, Prophages, Transposable elements, Plasmids",Transposable elements,Transposase,Putative transposase IS (ACLAME 657)
+DNA Metabolism,DNA replication,none,Replication protein
+Regulation and Cell signaling,Regulation and Cell signaling - no subcategory,Two-component regulatory system,Response Regulator Receiver Signal Transduction Histidine Kinase
+Protein Metabolism,Protein degradation,Protein degradation,SERINE PROTEASE
+Protein Metabolism,Protein degradation,Protein degradation,Secreted protein containing N-terminal Zinc-dependent carboxypeptidase related domain
+Membrane Transport,Uni- Sym- and Antiporters,none,Sodium/solute symporter
+DNA Metabolism,DNA Metabolism - no subcategory,DNA helicase,Superfamily II DNA and RNA helicase
+RNA Metabolism,RNA Metabolism - no subcategory,RNA helicase,Superfamily II DNA and RNA helicase
+RNA Metabolism,Transcription,"Transcription initiation, bacterial sigma factors","anti-FecI sigma factor, FecR"
+Protein Metabolism,Protein degradation,Protein degradation,peptidase M20
+Membrane Transport,ABC-transporters,none,"ABC transporter, dimeric ATP-binding protein TM_0956"
+Membrane Transport,ABC-transporters,none,"ABC transporter, permease protein TM_0955"
+Membrane Transport,ABC-transporters,none,"ABC transporter, substrate-binding protein TM_0958"
+Membrane Transport,ABC-transporters,none,"ABC-type multidrug transport system, ATPase and permease components"
+Respiration,Respiration - no subcategory,Cytochrome,Cytochrome c
+Membrane Transport,ABC-transporters,none,Molybdenum ABC transporter ATP-binding protein ModC
+Protein Metabolism,Protein degradation,Protein degradation,Murein DD-endopeptidase MepS @ Murein LD-carboxypeptidase (EC 3.4.17.13)
+"Phages, Prophages, Transposable elements, Plasmids",Transposable elements,Integrase,"Phage integrase, site-specific serine recombinase"
+Membrane Transport,Membrane Transport - no subcategory,none,Predicted sialic acid transporter
+Membrane Transport,Membrane Transport - no subcategory,Ton and Tol transopt system,Predicted sucrose-specific TonB-dependent receptor
+Membrane Transport,Membrane Transport - no subcategory,none,"Transporter, sodium/sulfate symporter family"
+Membrane Transport,Uni- Sym- and Antiporters,none,"Transporter, sodium/sulfate symporter family"
+DNA Metabolism,DNA Metabolism - no subcategory,Restriction Enzyme,Type II restriction enzyme DpnI (dpnC)
+Membrane Transport,Membrane Transport - no subcategory,none,"transporter, LysE family"
+Membrane Transport,ABC-transporters,none,"ABC transporter, ATP-binding protein (cluster 13, osmolytes)"
+Membrane Transport,ABC-transporters,none,"ABC transporter, permease protein (cluster 13, osmolytes) / ABC transporter, substrate-binding protein (cluster 13, osmolytes)"
+Membrane Transport,Membrane Transport - no subcategory,none,Cation transport protein
+Protein Metabolism,Protein degradation,Dipeptidases,D-alanyl-D-alanine dipeptidase
+"Virulence, Disease and Defense",Resistance to antibiotics and toxic compounds,none,Ethidium bromide-methyl viologen resistance protein EmrE
+DNA Metabolism,DNA Metabolism - no subcategory,Nuclease,Exonuclease
+RNA Metabolism,RNA processing and modification,Nuclease,Exonuclease
+Regulation and Cell signaling,Regulation and Cell signaling - no subcategory,Two-component regulatory system,Histidine kinase internal region
+Protein Metabolism,Protein degradation,Protein degradation,Isopeptidase T
+DNA Metabolism,DNA Metabolism - no subcategory,Nuclease,Probable endonuclease V
+RNA Metabolism,RNA processing and modification,Nuclease,Probable endonuclease V
+DNA Metabolism,DNA Metabolism - no subcategory,Nuclease,SNase-like nuclease
+RNA Metabolism,RNA processing and modification,Nuclease,SNase-like nuclease
+Protein Metabolism,Protein biosynthesis,Ribosome LSU/SSU bacterial,SSU ribosomal protein S10p (S20e)
+Protein Metabolism,Protein biosynthesis,Ribosome LSU/SSU bacterial,SSU ribosomal protein S11p (S14e)
+Protein Metabolism,Protein biosynthesis,Ribosome LSU/SSU bacterial,SSU ribosomal protein S13p (S18e)
+Protein Metabolism,Protein biosynthesis,Ribosome LSU/SSU bacterial,"SSU ribosomal protein S14p (S29e) @ SSU ribosomal protein S14p (S29e), zinc-independent"
+Protein Metabolism,Protein biosynthesis,Ribosome LSU/SSU bacterial,SSU ribosomal protein S15p (S13e)
+Protein Metabolism,Protein biosynthesis,Ribosome LSU/SSU bacterial,SSU ribosomal protein S16p
+Protein Metabolism,Protein biosynthesis,Ribosome LSU/SSU bacterial,"SSU ribosomal protein S18p @ SSU ribosomal protein S18p, zinc-independent"
+Protein Metabolism,Protein biosynthesis,Ribosome LSU/SSU bacterial,SSU ribosomal protein S19p (S15e)
+Protein Metabolism,Protein biosynthesis,Ribosome LSU/SSU bacterial,SSU ribosomal protein S1p
+Protein Metabolism,Protein biosynthesis,Ribosome LSU/SSU bacterial,SSU ribosomal protein S20p
+Protein Metabolism,Protein biosynthesis,Ribosome LSU/SSU bacterial,SSU ribosomal protein S2p (SAe)
+Protein Metabolism,Protein biosynthesis,Ribosome LSU/SSU bacterial,SSU ribosomal protein S3p (S3e)
+Protein Metabolism,Protein biosynthesis,Ribosome LSU/SSU bacterial,"SSU ribosomal protein S4p (S9e) @ SSU ribosomal protein S4p (S9e), zinc-independent"
+Protein Metabolism,Protein biosynthesis,Ribosome LSU/SSU bacterial,SSU ribosomal protein S5p (S2e)
+Protein Metabolism,Protein biosynthesis,Ribosome LSU/SSU bacterial,SSU ribosomal protein S6p
+Protein Metabolism,Protein biosynthesis,Ribosome LSU/SSU bacterial,SSU ribosomal protein S8p (S15Ae)
+Protein Metabolism,Protein biosynthesis,Ribosome LSU/SSU bacterial,SSU ribosomal protein S9p (S16e)
+Regulation and Cell signaling,Regulation and Cell signaling - no subcategory,Two-component regulatory system,Sensor histidine kinase of a two component response regulator
+Regulation and Cell signaling,Regulation and Cell signaling - no subcategory,Two-component regulatory system,Sensory transduction histidine kinase
+RNA Metabolism,RNA processing and modification,none,"Two component transcriptional regulator, LuxR family"
+Regulation and Cell signaling,Regulation and Cell signaling - no subcategory,Two-component regulatory system,Two-component sensor histidine kinase involved in degradative enzyme
+Respiration,Respiration - no subcategory,Cytochrome,cytochrome P460
+"Virulence, Disease and Defense",Resistance to antibiotics and toxic compounds,none,multiple antibiotic resistance (MarC)-like protein
+DNA Metabolism,DNA Metabolism - no subcategory,DNA methylation,site-specific DNA methylase
+RNA Metabolism,RNA processing and modification,none,tRNA-Gly-ACC
+RNA Metabolism,RNA processing and modification,none,tRNA-Pseudo-GTT
+Regulation and Cell signaling,Regulation and Cell signaling - no subcategory,Two-component regulatory system,two-component sensor
+Cell Wall and Capsule,Capsular and extracellular polysacchrides,Capsular Polysaccharides Biosynthesis and Assembly,Capsular polysaccharide synthesis enzyme Cap8C; Manganese-dependent protein-tyrosine phosphatase
+Membrane Transport,Membrane Transport - no subcategory,none,Cation-transporting ATPase
+Protein Metabolism,Protein degradation,Protein degradation,peptidase M12B ADAM/reprolysin
+Cell Wall and Capsule,Gram-Negative cell wall components,Lipopolysaccharides,putative lipopolysaccharide biosynthesis protein
+Carbohydrates,Polysaccharides,Polysaccharide biosynthesis,putative lipopolysaccharide biosynthesis protein
+"Phages, Prophages, Transposable elements, Plasmids",Transposable elements,Transposase,putative transposase
+Regulation and Cell signaling,Regulation and Cell signaling - no subcategory,Two-component regulatory system,"two-component response regulator, CheY-like"
+Membrane Transport,ABC-transporters,none,"ABC nitrate/sulfonate/bicarbonate transporter, inner membrane subunit"
+Membrane Transport,ABC-transporters,none,ABC-type bacteriocin transporter family protein
+Membrane Transport,Uni- Sym- and Antiporters,none,Arginine/ornithine antiporter ArcD
+Membrane Transport,Membrane Transport - no subcategory,none,"Late competence protein ComEC, DNA transport"
+RNA Metabolism,RNA processing and modification,none,tRNA-Pseudo-CCA
+RNA Metabolism,RNA processing and modification,none,tRNA-Pseudo-TAA
+RNA Metabolism,RNA processing and modification,none,tRNA-Thr-AGT
+Membrane Transport,ABC-transporters,none,"ABC transporter, substrate-binding protein YnjB"
+Regulation and Cell signaling,Regulation and Cell signaling - no subcategory,Two-component regulatory system,DNA-binding response regulator RprY
+Membrane Transport,Membrane Transport - no subcategory,Siderophore,"Desferrioxamine E biosynthesis protein DesD @ Siderophore synthetase superfamily, group C @ Siderophore synthetase component, ligase"
+Regulation and Cell signaling,Regulation and Cell signaling - no subcategory,Two-component regulatory system,Na+/proline symporter / Sensor histidine kinase PrlS
+Membrane Transport,Uni- Sym- and Antiporters,none,Na+/proline symporter / Sensor histidine kinase PrlS
+RNA Metabolism,RNA Metabolism - no subcategory,RNA helicase,Putative ATP-dependent RNA helicase
+Membrane Transport,Membrane Transport - no subcategory,Siderophore,"Siderophore [Alcaligin-like] biosynthetic enzyme (EC 1.14.13.59) @ Siderophore biosynthesis protein, monooxygenase"
+DNA Metabolism,DNA Metabolism - no subcategory,DNA helicase,Superfamily I DNA/RNA helicase protein
+RNA Metabolism,RNA Metabolism - no subcategory,RNA helicase,Superfamily I DNA/RNA helicase protein
+Respiration,Respiration - no subcategory,Cytochrome,cytochrome c552
+Protein Metabolism,Protein degradation,Protein degradation,peptidase S15
+RNA Metabolism,RNA processing and modification,none,tRNA-Pseudo-GCT
+RNA Metabolism,RNA processing and modification,none,tRNA-Pseudo-TGC
+DNA Metabolism,CRISPs,CRISPRs,CRISPR region with repeat aatatcgtgttttctaatctttaatcaaaccacaac
+DNA Metabolism,CRISPs,CRISPRs,CRISPR repeat with sequence aatatcgtgttttctaatctttaatcaaaccacaac
+DNA Metabolism,DNA Metabolism - no subcategory,DNA helicase,DNA helicase
+DNA Metabolism,DNA Metabolism - no subcategory,DNA helicase,DNA helicase II
+DNA Metabolism,DNA Metabolism - no subcategory,Nuclease,"predicted ATP-dependent endonuclease, OLD family"
+RNA Metabolism,RNA processing and modification,Nuclease,"predicted ATP-dependent endonuclease, OLD family"
+Regulation and Cell signaling,Regulation and Cell signaling - no subcategory,Two-component regulatory system,protein containing response regulator receiver d omain-possibly control of alkaline phosphatase
+RNA Metabolism,RNA processing and modification,Pseudouridinylation,tRNA pseudouridine synthase C (EC 4.2.1.70)
+Regulation and Cell signaling,Regulation and Cell signaling - no subcategory,Two-component regulatory system,"two-component system sensor histidine kinase/response regulator, hybrid (&#39;one component system&#39;)"
+"Virulence, Disease and Defense",Resistance to antibiotics and toxic compounds,none,Multidrug resistance efflux pump
+"Virulence, Disease and Defense",Resistance to antibiotics and toxic compounds,none,"Nisin resistance protein, putative"
+RNA Metabolism,Transcription,"Transcription initiation, bacterial sigma factors",RNA polymerase sigma factor (possible RNA polymerase sigma-24 factor)
+Membrane Transport,Membrane Transport - no subcategory,none,"RND efflux system, inner membrane transporter CmeB"
+Membrane Transport,Membrane Transport - no subcategory,Siderophore,Siderophore biosynthesis non-ribosomal peptide synthetase modules
+Membrane Transport,ABC-transporters,none,Spermidine/putrescine import ABC transporter permease protein PotB (TC 3.A.1.11.1)
+DNA Metabolism,DNA Metabolism - no subcategory,Type III Restriction-Modification,Type III restriction-modification system restriction subunit (EC 3.1.21.5)
+Protein Metabolism,Protein degradation,Protein degradation,putative metal-dependent membrane protease
+RNA Metabolism,RNA processing and modification,none,tRNA-Pseudo-TGA
+Protein Metabolism,Protein degradation,Protein degradation,C-terminal processing peptidase( EC:3.4.21.102 )
+DNA Metabolism,CRISPs,CRISPRs,CRISPR region with repeat gttggaaccatattttataaatctacaaaaatttgaaaggaattcacaac
+DNA Metabolism,CRISPs,CRISPRs,CRISPR repeat with sequence gttggaaccatattttataaatctacaaaaatttgaaaggaattcacaac
+DNA Metabolism,CRISPs,CRISPRs,CRISPR repeat with sequence gttggaaccatgttttataaatctacaaaaatttgaaaggaattcacaac
+DNA Metabolism,CRISPs,CRISPRs,CRISPR repeat with sequence gttgtggtttgattaaagattagaaaa
+Membrane Transport,Membrane Transport - no subcategory,none,"Cation-transporting ATPase, E1-E2 family"
+Cell Wall and Capsule,Gram-Negative cell wall components,Lipopolysaccharides,Lipopolysaccharide biosynthesis O-acetyl transferase WbbJ
+Carbohydrates,Polysaccharides,Polysaccharide biosynthesis,Lipopolysaccharide biosynthesis O-acetyl transferase WbbJ
+Protein Metabolism,Protein degradation,Protein degradation,Prolyl oligopeptidase( EC:3.4.21.26 )
+DNA Metabolism,DNA Metabolism - no subcategory,DNA helicase,Superfamily I DNA and RNA helicases and helicase subunits
+RNA Metabolism,RNA Metabolism - no subcategory,RNA helicase,Superfamily I DNA and RNA helicases and helicase subunits
+"Phages, Prophages, Transposable elements, Plasmids",Transposable elements,Transposase,"Transposase, Sph21_1677 family"
+Protein Metabolism,Protein degradation,Dipeptidases,Xaa-Pro dipeptidase family enzyme
+RNA Metabolism,Transcription,"Transcription initiation, bacterial sigma factors",possible ECF-family RNA polymerase sigma factor
+Regulation and Cell signaling,Regulation and Cell signaling - no subcategory,Two-component regulatory system,protein containing response regulator receiver d omain
+Regulation and Cell signaling,Regulation and Cell signaling - no subcategory,Two-component regulatory system,sensor histidine kinase/response regulator
+RNA Metabolism,RNA processing and modification,none,"transcriptional regulator, MarR family protein"
+RNA Metabolism,RNA processing and modification,none,"transcriptional regulator, TetR family protein"
+DNA Metabolism,DNA Metabolism - no subcategory,Type I Restriction-Modification,"type I restriction-modification enzyme, specificity subunit"
+DNA Metabolism,CRISPs,CRISPRs,CRISPR region with repeat aaagtcctacaaggtctgaaaaaagaccttgca
+DNA Metabolism,CRISPs,CRISPRs,CRISPR region with repeat atctacaatagtagaaattttaaagtggttttaaac
+DNA Metabolism,CRISPs,CRISPRs,CRISPR repeat with sequence aaagtcctacaaggtctgaaaaaagaccttgca
+DNA Metabolism,CRISPs,CRISPRs,CRISPR repeat with sequence agagtcctacaaggtctgaaaaaagaccttgca
+DNA Metabolism,CRISPs,CRISPRs,CRISPR repeat with sequence atctacaatagtagaaattttaaagtggttttaaac
+DNA Metabolism,CRISPs,CRISPRs,CRISPR repeat with sequence tactacaatagtagaaattttaaagtggttttaaac
+DNA Metabolism,DNA Metabolism - no subcategory,DNA methylation,DNA methylase
+DNA Metabolism,DNA Metabolism - no subcategory,DNA methylation,Modification methylase DsaV (EC 2.1.1.37)
+Protein Metabolism,Protein degradation,Protein degradation,Peptidase M23
+DNA Metabolism,DNA Metabolism - no subcategory,Nuclease,"Type II restriction endonuclease, uncharacterized, truncation"
+RNA Metabolism,RNA processing and modification,Nuclease,"Type II restriction endonuclease, uncharacterized, truncation"
+DNA Metabolism,DNA Metabolism - no subcategory,Restriction Enzyme,"Type II restriction endonuclease, uncharacterized, truncation"
+DNA Metabolism,DNA Metabolism - no subcategory,Nuclease,Type II restriction enzyme NspV (EC 3.1.21.4) (Endonuclease NspV) (R.NspV)
+RNA Metabolism,RNA processing and modification,Nuclease,Type II restriction enzyme NspV (EC 3.1.21.4) (Endonuclease NspV) (R.NspV)
+DNA Metabolism,DNA Metabolism - no subcategory,Restriction Enzyme,Type II restriction enzyme NspV (EC 3.1.21.4) (Endonuclease NspV) (R.NspV)
+DNA Metabolism,DNA Metabolism - no subcategory,DNA methylation,modification methylase NspV
+"Phages, Prophages, Transposable elements, Plasmids",Transposable elements,Transposase,probable transposase
+DNA Metabolism,DNA Metabolism - no subcategory,Restriction Enzyme,restriction enzyme LlaI protein
+DNA Metabolism,DNA Metabolism - no subcategory,Restriction Enzyme,type II restriction enzyme
+Regulation and Cell signaling,Regulation and Cell signaling - no subcategory,Two-component regulatory system,CheA Signal Transduction Histidine Kinases (STHK)
+Membrane Transport,Uni- Sym- and Antiporters,none,Citrate/H+ symporter of CitMHS family
+Membrane Transport,ABC-transporters,none,Putative ABC transporter
+Protein Metabolism,Protein degradation,Protein degradation,Serine-type D-Ala-D-Ala carboxypeptidase( EC:3.4.16.4 )
+Regulation and Cell signaling,Regulation and Cell signaling - no subcategory,Two-component regulatory system,Signal transduction histidine kinase CheA (EC 2.7.3.-)
+Protein Metabolism,Protein degradation,Protein degradation,"protease, putative"
+RNA Metabolism,RNA processing and modification,none,tRNA-Pseudo-GGT
+Regulation and Cell signaling,Regulation and Cell signaling - no subcategory,Two-component regulatory system,two-component system response regulator protein
+Regulation and Cell signaling,Regulation and Cell signaling - no subcategory,Two-component regulatory system,two-component system sensor histidine kinase/response regulator hybrid
+DNA Metabolism,CRISPs,CRISPRs,CRISPR region with repeat aatatcgtgttttctaatctttaatcaa
+DNA Metabolism,CRISPs,CRISPRs,CRISPR region with repeat gttgtagatacccttcaaaataagggctttcccaac
+DNA Metabolism,CRISPs,CRISPRs,CRISPR repeat with sequence aatatcgtgttttctaatctttaatcaa
+DNA Metabolism,CRISPs,CRISPRs,CRISPR repeat with sequence aatatcgtgttttctaatctttaatcaattataatc
+DNA Metabolism,CRISPs,CRISPRs,CRISPR repeat with sequence aatatcgtgttttgacttcgttgaacct
+DNA Metabolism,CRISPs,CRISPRs,CRISPR repeat with sequence cgctcgtccctccttcaaaaaaattgaattcggttt
+DNA Metabolism,CRISPs,CRISPRs,CRISPR repeat with sequence cgctcgtccctccttcaaaataagggctttcccaac
+DNA Metabolism,CRISPs,CRISPRs,CRISPR repeat with sequence gttgtagatacccttcaaaataagggctttcccaac
+DNA Metabolism,DNA Metabolism - no subcategory,Restriction Enzyme,Type II restriction enzyme EcoRI
+Protein Metabolism,Protein degradation,Protein degradation,putative secreted serine protease
+DNA Metabolism,DNA Metabolism - no subcategory,DNA helicase,similar to Superfamily I DNA and RNA helicases
+RNA Metabolism,RNA Metabolism - no subcategory,RNA helicase,similar to Superfamily I DNA and RNA helicases
+DNA Metabolism,CRISPs,CRISPRs,CRISPR region with repeat gttgtgaattgctttcaaaattgtatttttacttatgattcccaac
+DNA Metabolism,CRISPs,CRISPRs,CRISPR region with repeat gttgtggtttgattaaagattagaagacacgatattt
+DNA Metabolism,CRISPs,CRISPRs,CRISPR repeat with sequence attgtgataagattaaagattagaagacacgatattt
+DNA Metabolism,CRISPs,CRISPRs,CRISPR repeat with sequence cgatggttatcagtgcaaaattgtatttttacttatgattcccaac
+DNA Metabolism,CRISPs,CRISPRs,CRISPR repeat with sequence gttgtgaattgctttcaaaattgtatttttacttatgattcccaac
+DNA Metabolism,CRISPs,CRISPRs,CRISPR repeat with sequence gttgtggtttgattaaagattagaagacacgatatta
+DNA Metabolism,CRISPs,CRISPRs,CRISPR repeat with sequence gttgtggtttgattaaagattagaagacacgatattt
+DNA Metabolism,CRISPs,CRISPRs,CRISPR repeat with sequence taatgaatcctgttaaaaaattagtaatttacttgtggtttccaac
+Protein Metabolism,Protein degradation,Aminopeptidases,Methionine aminopeptidase (EC 3.4.11.18)
+DNA Metabolism,DNA replication,DNA polymerase,RNA-directed DNA polymerase
+Protein Metabolism,Protein biosynthesis,Ribosome LSU/SSU bacterial,SSU ribosomal protein S17p (S11e)
+Protein Metabolism,Protein biosynthesis,Ribosome LSU/SSU bacterial,SSU ribosomal protein S21p
+RNA Metabolism,RNA processing and modification,none,tRNA-Pro-GGG
+Protein Metabolism,Protein degradation,Protein degradation,"peptidase, M48 family( EC:3.4.24.- )"
+Regulation and Cell signaling,Regulation and Cell signaling - no subcategory,Two-component regulatory system,putative two-component system response regulator
+DNA Metabolism,DNA Metabolism - no subcategory,DNA helicase,Conjugative transfer ATP-dependent DNA helicase
+Membrane Transport,ABC-transporters,none,"Glycerol-3-phosphate ABC transporter, permease protein UgpA (TC 3.A.1.1.3)"
+Protein Metabolism,Protein degradation,Protein degradation,Phage endopeptidase (ACLAME 35)
+Regulation and Cell signaling,Regulation and Cell signaling - no subcategory,Two-component regulatory system,Putative two-component system sensor histidine kinase
+Regulation and Cell signaling,Regulation and Cell signaling - no subcategory,Two-component regulatory system,Response regulator of the LytR/AlgR family
+Regulation and Cell signaling,Regulation and Cell signaling - no subcategory,Two-component regulatory system,Stage 0 sporulation two-component response regulator (Spo0A)
+RNA Metabolism,RNA processing and modification,none,tRNA-Pseudo-ACG
+RNA Metabolism,RNA processing and modification,none,tRNA-Pseudo-TGG
+DNA Metabolism,DNA Metabolism - no subcategory,Nuclease,"3&#39;-5&#39; exonuclease, PolB"
+RNA Metabolism,RNA processing and modification,Nuclease,"3&#39;-5&#39; exonuclease, PolB"
+Membrane Transport,ABC-transporters,none,ABC transporter permease
+Membrane Transport,ABC-transporters,none,"ABC transporter, fused permease protein"
+"Phages, Prophages, Transposable elements, Plasmids",Transposable elements,Transposon,Conjugative transposon protein TraD
+"Phages, Prophages, Transposable elements, Plasmids",Transposable elements,Transposon,Conjugative transposon protein TraE
+"Phages, Prophages, Transposable elements, Plasmids",Transposable elements,Transposon,Conjugative transposon protein TraF
+Respiration,Respiration - no subcategory,Cytochrome,Copper-containing nitrite reductase-like / Cytochrome C
+DNA Metabolism,DNA repair,none,DNA-repair protein
+Membrane Transport,Membrane Transport - no subcategory,none,"Efflux transport system, outer membrane factor (OMF) lipoprotein BT1212"
+DNA Metabolism,DNA replication,DNA polymerase,Error-prone repair homolog of DNA polymerase III alpha subunit
+DNA Metabolism,DNA repair,none,Error-prone repair homolog of DNA polymerase III alpha subunit
+Membrane Transport,ABC-transporters,none,"Manganese ABC transporter, ATP-binding protein SitB"
+Membrane Transport,ABC-transporters,none,"Manganese ABC transporter, inner membrane permease protein SitC"
+Membrane Transport,ABC-transporters,none,"Manganese ABC transporter, inner membrane permease protein SitD"
+Membrane Transport,ABC-transporters,none,"Manganese ABC transporter, periplasmic-binding protein SitA"
+RNA Metabolism,Transcription,"Transcription initiation, bacterial sigma factors",Probable RNA polymerase sigma factor
+RNA Metabolism,RNA processing and modification,none,Putative transcriptional regulatory protein
+Membrane Transport,Protein transport,Protein transport,"Sec-independent protein translocase protein TatE, putative"
+Regulation and Cell signaling,Regulation and Cell signaling - no subcategory,Two-component regulatory system,Two component sensor histidine kinase
+Protein Metabolism,Protein degradation,Protein degradation,"Uncharacterized protein sporadically distributed in bacteria and archaea, not a Lon-type protease"
+RNA Metabolism,RNA processing and modification,none,"iron aquisition regulator (YbtA,AraC- like,required for transcription of FyuA/psn,Irp2)"
+Protein Metabolism,Protein degradation,Protein degradation,"peptidase, M48 family"
+RNA Metabolism,RNA processing and modification,none,"putative transcriptional regulator, Fis family protein"
+DNA Metabolism,CRISPs,CRISPRs,CRISPR region with repeat gttgagaatcattagtaaaaatacaattttgaaagcaattcacaac
+DNA Metabolism,CRISPs,CRISPRs,CRISPR region with repeat gttgtatatacctttcaaaataaaggctttcacaac
+DNA Metabolism,CRISPs,CRISPRs,CRISPR repeat with sequence gttatatatacctttcaaatcgaagattcatgaact
+DNA Metabolism,CRISPs,CRISPRs,CRISPR repeat with sequence gttgagaatcattagtaaaaatacaattttgaaagcaattcacaac
+DNA Metabolism,CRISPs,CRISPRs,CRISPR repeat with sequence gttgtatatacctttcaaaataaaggctttcacaac
+DNA Metabolism,CRISPs,CRISPRs,CRISPR repeat with sequence gttgtatatacctttcaaaataaaggttttcacaac
+"Phages, Prophages, Transposable elements, Plasmids",Transposable elements,Transposase,IS110 family transposase
+Membrane Transport,Membrane Transport - no subcategory,none,Na(+)-dependent branched-chain amino acid transporter
+Protein Metabolism,Protein degradation,Protein degradation,Peptidase M23B
+Regulation and Cell signaling,Regulation and Cell signaling - no subcategory,Two-component regulatory system,"response regulator of the LytR/AlgR family, putative"
+DNA Metabolism,DNA Metabolism - no subcategory,DNA helicase,ATP-dependent DNA helicase RecG
+DNA Metabolism,DNA Metabolism - no subcategory,DNA methylation,Modification methylase EcoRV (EC 2.1.1.72) (Adenine-specific methyltransferase EcoRV) (M.EcoRV)
+Membrane Transport,Membrane Transport - no subcategory,none,"Nitrate/nitrite transporter CHU_1319, NarK/U family"
+Membrane Transport,ABC-transporters,none,"Ribose ABC transporter, ATP-binding protein RbsA (TC 3.A.1.2.1)"
+DNA Metabolism,CRISPs,CRISPRs,CRISPR region with repeat gtcacagaattaggaattgtaactg
+DNA Metabolism,CRISPs,CRISPRs,CRISPR repeat with sequence ctaacaaaattcccaacgttaaccg
+DNA Metabolism,CRISPs,CRISPRs,CRISPR repeat with sequence gtaacggtattgttagggattgtaa
+DNA Metabolism,CRISPs,CRISPRs,CRISPR repeat with sequence gtcacagaattaggaattgtaactg
+RNA Metabolism,RNA processing and modification,none,Predicted transcriptional regulator containing an HTH domain and an uncharacterized domain shared with the mammalian protein Schlafen
+"Phages, Prophages, Transposable elements, Plasmids",Transposable elements,Transposase,"Transposase, Gmet_2093 family"
+"Virulence, Disease and Defense","Virulence, Disease and Defense - no subcategory",Phage defence,abortive phage resistance protein
+RNA Metabolism,RNA processing and modification,none,"transcriptional regulator, HxlR family"
+Regulation and Cell signaling,Regulation and Cell signaling - no subcategory,Two-component regulatory system,Two-component oxygen-sensor histidine kinase FixL
+Regulation and Cell signaling,Regulation and Cell signaling - no subcategory,Two-component regulatory system,two-component system sensor histidine kinase/met hyl-esterase/transferase hybrid
+DNA Metabolism,CRISPs,CRISPRs,CRISPR region with repeat gttgtgaatagctttcaaaattgtatcttagtagatgattcacagg
+DNA Metabolism,CRISPs,CRISPRs,CRISPR repeat with sequence gttgtgaatagctttcaaaattgtatcttagtagatgattcacagg
+Membrane Transport,Membrane Transport - no subcategory,none,Electron transport complex protein RnfC
+Membrane Transport,Membrane Transport - no subcategory,none,Electron transport complex protein RnfD
+DNA Metabolism,DNA Metabolism - no subcategory,Nuclease,HNH nuclease
+RNA Metabolism,RNA processing and modification,Nuclease,HNH nuclease
+Protein Metabolism,Protein degradation,Protein degradation,"L,D-transpeptidase YcbB"
+DNA Metabolism,DNA Metabolism - no subcategory,Nuclease,Micrococcal nuclease (thermonuclease) homologs
+RNA Metabolism,RNA processing and modification,Nuclease,Micrococcal nuclease (thermonuclease) homologs
+Membrane Transport,Uni- Sym- and Antiporters,none,Sodium:dicarboxylate symporter family protein
+DNA Metabolism,DNA Metabolism - no subcategory,Type I Restriction-Modification,"Type I restriction-modification system, restriction subunit R (EC 3.1.21.3)"
+Respiration,Respiration - no subcategory,Cytochrome,cytochrome c biogenesis
+Membrane Transport,Membrane Transport - no subcategory,none,Anaerobic C4-dicarboxylate transporter DcuC
+Membrane Transport,Uni- Sym- and Antiporters,none,Oxalate/formate antiporter
+Regulation and Cell signaling,Regulation and Cell signaling - no subcategory,Two-component regulatory system,PAS/PAC sensor hybrid histidine kinase
+Membrane Transport,Membrane Transport - no subcategory,none,Putative sugar transporter
+Membrane Transport,Membrane Transport - no subcategory,none,Transporter
+"Phages, Prophages, Transposable elements, Plasmids",Transposable elements,Transposase,"Transposase, Cycma_3505 family"
+"Phages, Prophages, Transposable elements, Plasmids",Transposable elements,Transposase,"Transposase, GSU2180 family"
+Protein Metabolism,Protein degradation,Protein degradation,peptidase M61 domain protein
+DNA Metabolism,CRISPs,CRISPRs,CRISPR region with repeat gttgtgaattgctttcaaaattgtatttttacttataattcccaac
+DNA Metabolism,CRISPs,CRISPRs,CRISPR repeat with sequence agtggttttagggtacaaaaaggtttttttatttctcagaatataa
+DNA Metabolism,CRISPs,CRISPRs,CRISPR repeat with sequence attgtgaattgctttcaaaattgtatttttacttataattcccaac
+DNA Metabolism,CRISPs,CRISPRs,CRISPR repeat with sequence gttgtgaattgctttcaaaattgtatttttacttataattcccaac
+DNA Metabolism,DNA Metabolism - no subcategory,DNA helicase,DNA helicase IV (EC 3.6.4.12)
+DNA Metabolism,DNA Metabolism - no subcategory,DNA methylation,DNA modification methylase
+Membrane Transport,Membrane Transport - no subcategory,none,Sodium-transporting ATPase subunit A
+Membrane Transport,Membrane Transport - no subcategory,none,Sodium-transporting ATPase subunit B
+Membrane Transport,Membrane Transport - no subcategory,none,Sodium-transporting ATPase subunit C
+Membrane Transport,Membrane Transport - no subcategory,none,Sodium-transporting ATPase subunit D
+Membrane Transport,Membrane Transport - no subcategory,none,Sodium-transporting ATPase subunit E
+Membrane Transport,Membrane Transport - no subcategory,none,Sodium-transporting ATPase subunit F
+Membrane Transport,Membrane Transport - no subcategory,none,Sodium-transporting ATPase subunit G
+Regulation and Cell signaling,Regulation and Cell signaling - no subcategory,Two-component regulatory system,"ATP-binding region, ATPase-like:Histidine kinase A, N-terminal"
+DNA Metabolism,DNA Metabolism - no subcategory,DNA helicase,DNA/RNA HELICASE (DEAD/DEAH BOX FAMILY)
+RNA Metabolism,RNA Metabolism - no subcategory,RNA helicase,DNA/RNA HELICASE (DEAD/DEAH BOX FAMILY)
+Protein Metabolism,Protein degradation,Protein degradation,Zinc protease
+Protein Metabolism,Protein degradation,Protein degradation,proline imino-peptidase
+Regulation and Cell signaling,Regulation and Cell signaling - no subcategory,Two-component regulatory system,two-component system sensor histidine kinase
+Membrane Transport,Membrane Transport - no subcategory,Siderophore,"Siderophore [Alcaligin-like] biosynthesis complex, long chain @ Siderophore synthetase component, ligase"
+Regulation and Cell signaling,Regulation and Cell signaling - no subcategory,Two-component regulatory system,response regulator with Che-like receiver domain
+RNA Metabolism,RNA processing and modification,none,tRNA-Pseudo-GTA
+DNA Metabolism,CRISPs,CRISPRs,CRISPR repeat with sequence aatatcgtgttttgacttcgttgaacctcgtccctc
+DNA Metabolism,CRISPs,CRISPRs,CRISPR repeat with sequence tacttataattcccaac
+Protein Metabolism,Protein degradation,Protein degradation,Probable acylaminoacyl-peptidase
+Regulation and Cell signaling,Regulation and Cell signaling - no subcategory,Two-component regulatory system,Two-component sensor histidine kinase
+Membrane Transport,Membrane Transport - no subcategory,none,cationic amino acid transporter (cat-2)
+Membrane Transport,Membrane Transport - no subcategory,none,sodium/glucose cotransporter 2
+Membrane Transport,ABC-transporters,none,"ABC transporter, substrate-binding protein (cluster 3, basic aa/glutamine/opines)"
+RNA Metabolism,RNA processing and modification,none,tRNA-Pseudo-GGA
+DNA Metabolism,DNA replication,DNA polymerase,DNA polymerase III alpha subunit (EC 2.7.7.7)
+Respiration,Respiration - no subcategory,Cytochrome,"Alternative cytochrome c oxidase polypeptide CoxO (EC 1.9.3.1); Cytochrome c oxidase, subunit III (EC 1.9.3.1)"
+Regulation and Cell signaling,Regulation and Cell signaling - no subcategory,Two-component regulatory system,Periplasmic sensor signal transduction histidine kinase
+Protein Metabolism,Protein degradation,Protein degradation,Putative protease
+RNA Metabolism,RNA processing and modification,none,tRNA-Pro-AGG
+DNA Metabolism,DNA Metabolism - no subcategory,Nuclease,Type II restriction endonuclease
+RNA Metabolism,RNA processing and modification,Nuclease,Type II restriction endonuclease
+DNA Metabolism,DNA Metabolism - no subcategory,Restriction Enzyme,Type II restriction endonuclease

@@ -1,0 +1,32 @@
+{% if error %}
+<div class="alert alert-danger" role="alert">
+    {{error}}
+</div>
+{% endif %}
+
+{% if not df.empty: %}
+<div class="container py-1">
+    <div class="scroll-table">
+        <table>
+            <thead>
+                <tr>
+                    {% for column in df.columns: %}
+                    <th>{{column}}</th>{% endfor %}
+                </tr>
+            </thead>
+        </table>
+
+        <div class="scroll-table-body">
+            <table>
+                {% for rowIndex, row in df.iterrows(): %}
+                <tr>
+                    {%for columnIndex, value in row.items():%}
+                    <td>{% print(value) %}</td>
+                    {% endfor %}
+                </tr>{% endfor %}
+            </table>
+        </div>
+    </div>
+
+</div>
+{% endif %}                   

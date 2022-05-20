@@ -1,0 +1,107 @@
+{% extends 'base.html' %}
+{% block content %}
+<div class="slider">
+    <input type="radio" name="switcher" id="slide1" checked><label class="slideMenu" style="margin-left: 4%;" for="slide1"><h6>КЛАССИФИКАЦИЯ</h6></label>
+    <input type="radio" name="switcher" id="slide2"><label class="slideMenu" for="slide2"><h6>РАСЧЕТ</h6></label>
+    <input type="radio" name="switcher" id="slide3"><label class="slideMenu" for="slide3"><h6>ВИЗУАЛИЗАЦИЯ</h6></label>
+
+    <div class="slider-block">
+        <div class="slides">
+            <div class="slide">
+                <form id="clsForm" method="post" enctype="multipart/form-data">
+                    <h4>Загрузка выгрузок RAST</h4> <p><input type="file" class="form-control" name="rastDownloads[]" multiple="" /></p>
+                    <hr class="mb-5">
+                    <h4>Параметры классификации</h4>
+                    <p><input type="checkbox" name="cls_type" value="0" /> Классификация RAST</p>
+                    <p><input type="checkbox" name="cls_type" value="1" /> Своя классификация</p>
+                    <p><input type="file" class="form-control" name="userCls" value="Загрузить файл" /></p>
+                    <p><input type="checkbox" name="cls_type" value="2" /> Классификация по ключевым словам</p>
+                    <p><input id="clsFormBtn" class="btn btn-outline-secondary" type="button" value="Запустить" /></p>
+                </form>
+                <hr class="mb-5">
+                <h4>Результаты классификации</h4>
+                <span id="clsSlide">{% include 'analisisCls.html' %}</span>
+
+            </div>
+
+            <div class="slide">
+                <form id="countForm" method="post" enctype="multipart/form-data">
+                    <h4>Иерархия категорий и систем</h4>
+                    <input onClick="chooseAll(this)" name="allCategories" class="btn-check" id="ctgsCheckbox" type="checkbox" >
+                    <label class="btn btn-outline-secondary btn-sm" for="ctgsCheckbox">Все категории</label>
+                    <input onClick="chooseAll(this)" name="allSystems" class="btn-check" id="stmsCheckbox" type="checkbox" >
+                    <label class="btn btn-outline-secondary btn-sm" for="stmsCheckbox">Все системы</label>
+                    <div class="scroll-table scroll-table-body">
+                        <table>
+                            <tr><td></td></tr>
+                            {% if not hierarchy.empty: %}
+                            {% for category, list in hierarchy.items():%}
+                            {% set loopIndex = loop.index %}
+                            <tr name="{{loopIndex}}" onClick="show(this)">
+                                <td>
+                                    {{category}}
+                                </td>
+                                <td>
+                                    <input name="categories" value="{{category}}" onClick="checkboxClick=true" id="ctg{{loopIndex}}Checkbox" style="display:none" type="checkbox" />
+                                    <label name="ctgLabel" onClick="checkboxClick = true; changeBtn(this)" class="btn btn-outline-secondary btn1" for="ctg{{loopIndex}}Checkbox">Выбрать</label>
+                                    <input name="{{loopIndex}}" onClick="chooseAll(this)" id="stms{{loopIndex}}Checkbox" style="display:none" type="checkbox" />
+                                    <label name="stmsLabel" onClick="checkboxClick = true;changeBtn(this)" class="btn btn-outline-secondary btn2" for="stms{{loopIndex}}Checkbox">Все системы внутри категории</label>
+                                    <img width="20" align="right" style="margin-top: 12px" src="{{url_for('static',filename='images/arrow_down.png') }}">
+                                </td>
+                            </tr>
+                            <tr>
+                                <td class="hidden">
+                                    {% for system in list:%}
+                                    <input type="checkbox" data-name="system{{loopIndex}}" name="systems" value="{{system}}" />{{system}}<br />
+                                    {% endfor %}
+                                </td>
+                            </tr>
+                            {% endfor %}
+                            {% endif %}
+                        </table>
+                    </div>
+                    <p class="pt-4"><input id="countFormBtn" class="btn btn-outline-secondary" type="button" value="Запустить расчеты" /></p>
+                </form>
+                <hr class="mb-5">
+                <h4>Результаты расчетов</h4>
+                <span id="countSlide">{% include 'analisisCount.html' %}</span>
+
+            </div>
+
+            <div class="slide">
+                <h4>Разбивка данных</h4>
+                <form id="uploadBreakdown" method="post" enctype="multipart/form-data">
+                    <p><input type="file" class="form-control" name="breakdown" /></p>
+                    <p><input id="uploadBreakdownBtn" class="btn btn-outline-secondary" type="button" value="Загрузить разбивку данных" /></p>
+                </form>
+                <span id="breakdownDisplay"></span>
+                <hr class="mb-5">
+                <h4>Параметры визуализации</h4>
+                <form id="vslForm" method="post" enctype="multipart/form-data">
+                    <p class="pt-2">
+                        <input type="checkbox" name="method" value="0" /> PCA
+                        <input type="checkbox" name="method" value="1" /> MDS
+                        <input type="checkbox" name="method" value="2" /> t-SNE
+                        <input type="number" name="perplexity" value="10" /> Perplexity for t-SNE
+                    </p>
+                    <p><input id="vslFormBtn" class="btn btn-outline-secondary" type="button" value="Построить график" /></p>
+                </form>
+                <hr class="mb-5">
+                <h4>Результаты визуализации</h4>
+                <span id="vslSlide">
+                    {% include 'analisisVsl.html' %}
+                </span>
+
+
+            </div>
+        </div>
+    </div>
+</div>
+{% endblock %}
+
+{% block scripts %}
+<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.6.1/jquery.min.js"></script>
+<script src="{{ url_for('static', filename='scripts/interaction.js')}}"></script>
+<script src="{{ url_for('static', filename='scripts/ajaxQueries.js')}}"></script>
+<script src='https://cdn.plot.ly/plotly-latest.min.js'></script>
+{% endblock %}

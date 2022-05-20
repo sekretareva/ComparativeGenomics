@@ -1,0 +1,11 @@
+{% extends 'base.html' %}
+{% block content %}
+<div class="container">
+    {% include 'analisisCls.html' %}
+</div>
+{% endblock %}
+
+{% block scripts %}
+<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.6.1/jquery.min.js"></script>
+<script src="{{ url_for('static', filename='scripts/ajaxQueries.js')}}"></script>
+{% endblock %}

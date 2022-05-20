@@ -1,0 +1,62 @@
+{% for error in errors: %}
+{% if error %}
+<div class="alert alert-danger" role="alert">
+{{error}}
+</div>
+{% endif %}
+{% endfor %}
+
+{% if not dict.empty: %}
+    {% if displayCount > dict|length %}
+        {% set displayCount = dict|length %}
+    {% endif %}
+    {% for key in dict:%}
+        {% if loop.index-1 < displayCount: %}
+            <div class="container">
+                <div class="py-2 d-flex justify-content-end">
+                    {% if loop.index == 1 and displayCount == 1 %}
+                    <form id="reset" class="ps-4" method="post">
+                        <input id="resetBtn" class="btn btn-outline-secondary" type="button" onclick="$(this).reset()" value="Reset" />
+                    </form>
+                    <form class="ps-4" action="/download/kwClassification/kwClassification" method="get" target="_blank">
+                        <input class="btn btn-outline-secondary" type="submit" value="Download keywords classification" />
+                    </form>
+                    {% if dict|length > 1 %}
+                    <form class="ps-4" action="{{url_for('fullClassified')}}" method="get" target="_blank">
+                        <input class="btn btn-outline-secondary" type="submit" value="Open full classified" />
+                    </form>
+                    {% endif %}
+                    {% endif %}
+                </div>
+                <h3>{{key}}</h3>
+                <div class="scroll-table">
+                    {% if not dict[key].empty: %}
+                    <table>
+                        <thead>
+                            <tr>
+                                {% for column in dict[key].columns: %}
+                                <th>{{column}}</th>{% endfor %}
+                            </tr>
+                        </thead>
+                    </table>
+
+                    <div class="scroll-table-body">
+                        <table>
+                            {% for rowIndex, row in dict[key].iterrows(): %}
+                            <tr>
+                                {%for columnIndex, value in row.items():%}
+                                <td>{% print(value) %}</td>
+                                {% endfor %}
+                            </tr>{% endfor %}
+                        </table>{% endif %}
+                    </div>
+                </div>
+
+                <form class="py-4 d-flex justify-content-end" action="/download/classified/{{key}}" method="get" target="_blank">
+                    <input class="btn btn-outline-secondary" type="submit" value="Download" />
+                </form>
+
+            </div>
+        {% endif %}
+    {% endfor %}
+{% endif %}                   
