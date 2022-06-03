@@ -3,7 +3,7 @@
     box-shadow: 0 9px 18px -4px rgba(0, 0, 0, 0.69);
 }
 
-.slider input[type=radio] {
+.hiddenInput{
     display: none;
 }
 

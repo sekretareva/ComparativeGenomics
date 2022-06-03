@@ -73,8 +73,11 @@ def count():
 def visualize():
     methods = request.form.getlist('method')
     perplexity = request.form['perplexity']
+    clusterMethods = request.form.getlist('clusterMethod')
+    n_clusters = request.form['n_clusters']
+    linkage = request.form['linkage']
     
-    data.setPlots(buildPlots(data, methods, perplexity))
+    data.setPlots(buildPlots(data, methods, perplexity, clusterMethods, n_clusters, linkage))
     
     return render_template("analisisVsl.html", plots=data.getPlots())
 

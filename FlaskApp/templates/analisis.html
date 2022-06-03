@@ -1,9 +1,9 @@
 {% extends 'base.html' %}
 {% block content %}
 <div class="slider">
-    <input type="radio" name="switcher" id="slide1" checked><label class="slideMenu" style="margin-left: 4%;" for="slide1"><h6>КЛАССИФИКАЦИЯ</h6></label>
-    <input type="radio" name="switcher" id="slide2"><label class="slideMenu" for="slide2"><h6>РАСЧЕТ</h6></label>
-    <input type="radio" name="switcher" id="slide3"><label class="slideMenu" for="slide3"><h6>ВИЗУАЛИЗАЦИЯ</h6></label>
+    <input class="hiddenInput" type="radio" name="switcher" id="slide1" checked><label class="slideMenu" style="margin-left: 4%;" for="slide1"><h6>КЛАССИФИКАЦИЯ</h6></label>
+    <input class="hiddenInput" type="radio" name="switcher" id="slide2"><label class="slideMenu" for="slide2"><h6>РАСЧЕТ</h6></label>
+    <input class="hiddenInput" type="radio" name="switcher" id="slide3"><label class="slideMenu" for="slide3"><h6>ВИЗУАЛИЗАЦИЯ</h6></label>
 
     <div class="slider-block">
         <div class="slides">
@@ -69,20 +69,36 @@
             </div>
 
             <div class="slide">
-                <h4>Разбивка данных</h4>
+                <h4>Маркировка данных</h4>
                 <form id="uploadBreakdown" method="post" enctype="multipart/form-data">
                     <p><input type="file" class="form-control" name="breakdown" /></p>
                     <p><input id="uploadBreakdownBtn" class="btn btn-outline-secondary" type="button" value="Загрузить разбивку данных" /></p>
                 </form>
                 <span id="breakdownDisplay"></span>
                 <hr class="mb-5">
-                <h4>Параметры визуализации</h4>
+
+                <h4>Кластеризация</h4>
                 <form id="vslForm" method="post" enctype="multipart/form-data">
+                    <p><input type="number" name="n_clusters" value="3" /> Количество кластеров</p>
+                    <p><input type="radio" name="clusterMethod" value="0" /> K-средних</p>
+                    <p><input type="radio" name="clusterMethod" value="1" /> Иерархическая кластеризация:   
+                        критерий связывания
+                        <select name="linkage">
+                            <option selected value="ward">ward</option>
+                            <option value="average">average</option>
+                            <option value="single">single</option>
+                            <option value="complete">complete</option>
+                        </select>
+                    </p>
+                    <p><input type="radio" name="clusterMethod" value="2" /> Афинная кластеризация</p>
+                    <hr class="mb-5">
+
+                    <h4>Параметры визуализации</h4>
                     <p class="pt-2">
                         <input type="checkbox" name="method" value="0" /> PCA
                         <input type="checkbox" name="method" value="1" /> MDS
-                        <input type="checkbox" name="method" value="2" /> t-SNE
-                        <input type="number" name="perplexity" value="10" /> Perplexity for t-SNE
+                        <input type="checkbox" name="method" value="2" /> t-SNE: perplexity
+                        <input type="number" name="perplexity" value="10" />
                     </p>
                     <p><input id="vslFormBtn" class="btn btn-outline-secondary" type="button" value="Построить график" /></p>
                 </form>
